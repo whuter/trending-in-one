@@ -7,7 +7,7 @@ import { toutiaoSearch } from "./toutiao-search.ts";
 export async function init() {
   await zhihuVideo();
   await zhihuQuestions();
-  await zhihuSearch();
+  // await zhihuSearch(); TODO: API update
   await weiboSearch();
   await toutiaoSearch();
 }

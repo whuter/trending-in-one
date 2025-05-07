@@ -24,7 +24,7 @@ const response = await fetch(
 
 if (!response.ok) {
   console.error('zhihu-questions API: ' + response.statusText);
-  return;
+  Deno.exit(-1);
 }
 
 const result: ZhihuQuestionList = await response.json();

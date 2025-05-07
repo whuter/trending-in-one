@@ -23,8 +23,8 @@ const response = await fetch(
 );
 
 if (!response.ok) {
-  console.error(response.statusText);
-  Deno.exit(-1);
+  console.error('zhihu-video API: ' + response.statusText);
+  return;
 }
 
 const result: ZhihuVideoList = await response.json();

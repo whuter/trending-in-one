@@ -23,7 +23,7 @@ const response = await fetch(
 );
 
 if (!response.ok) {
-  console.error(response.statusText);
+  console.error('zhihu-questions API: ' + response.statusText);
   Deno.exit(-1);
 }
 

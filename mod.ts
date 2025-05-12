@@ -7,8 +7,8 @@ import { zhihuSearch } from "./zhihu-search.ts";
 export async function init() {
   await weiboSearch();
   await toutiaoSearch();
-  await zhihuQuestions();
   await zhihuVideo();
+  await zhihuQuestions();
   // await zhihuSearch(); TODO: API update
 }
 

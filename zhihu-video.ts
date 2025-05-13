@@ -26,7 +26,7 @@ if (!response.ok) {
   console.error('zhihu-video API: ' + response.statusText);
 }
 
-const result: ZhihuVideoList = response.ok ? await response.json() : [];
+const result: ZhihuVideoList = response.ok ? await response.json() : { data: [] };
 
 const questions: Question[] = result.data.map((x) => ({
   title: x.target.title_area.text,

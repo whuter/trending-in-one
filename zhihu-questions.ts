@@ -26,7 +26,7 @@ if (!response.ok) {
   console.error('zhihu-questions API: ' + response.statusText);
 }
 
-const result: ZhihuQuestionList = response.ok ? await response.json() : [];
+const result: ZhihuQuestionList = response.ok ? await response.json() : { data: [] };
 
 const questions: Question[] = result.data.map((x) => ({
   title: x.target.title,

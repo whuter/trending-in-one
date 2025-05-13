@@ -24,10 +24,9 @@ const response = await fetch(
 
 if (!response.ok) {
   console.error('zhihu-video API: ' + response.statusText);
-  Deno.exit(-1);
 }
 
-const result: ZhihuVideoList = await response.json();
+const result: ZhihuVideoList = response.ok ? await response.json() : [];
 
 const questions: Question[] = result.data.map((x) => ({
   title: x.target.title_area.text,

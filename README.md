@@ -24,77 +24,80 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sun Sep 14 2025 06:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 14 2025 07:09:27 GMT+0800 (China Standard Time) -->
 1. [网友拍到北京的“冰河时代”](https://so.toutiao.com/search?keyword=网友拍到北京的“冰河时代”)
 1. [以色列“敏感目标”遭袭](https://so.toutiao.com/search?keyword=以色列“敏感目标”遭袭)
 1. [12响最高鸣枪礼节致敬志愿军烈士](https://so.toutiao.com/search?keyword=12响最高鸣枪礼节致敬志愿军烈士)
-1. [中方回应美方经贸会谈前制裁多家中企](https://so.toutiao.com/search?keyword=中方回应美方经贸会谈前制裁多家中企)
-1. [美国为什么也罕见同意谴责以色列](https://so.toutiao.com/search?keyword=美国为什么也罕见同意谴责以色列)
 1. [孙颖莎6-9落后大心脏强势逆转](https://so.toutiao.com/search?keyword=孙颖莎6-9落后大心脏强势逆转)
-1. [新郎高情商接亲回答赢得周围人夸赞](https://so.toutiao.com/search?keyword=新郎高情商接亲回答赢得周围人夸赞)
-1. [大量巴勒斯坦人排成长队被以军押送](https://so.toutiao.com/search?keyword=大量巴勒斯坦人排成长队被以军押送)
-1. [英国为何对3家中企发起制裁](https://so.toutiao.com/search?keyword=英国为何对3家中企发起制裁)
-1. [官方辟谣峨眉山猴子被击毙](https://so.toutiao.com/search?keyword=官方辟谣峨眉山猴子被击毙)
+1. [美国为什么也罕见同意谴责以色列](https://so.toutiao.com/search?keyword=美国为什么也罕见同意谴责以色列)
 1. [以色列与西班牙爆发激烈外交冲突](https://so.toutiao.com/search?keyword=以色列与西班牙爆发激烈外交冲突)
-1. [中方对美产相关模拟芯片发起调查](https://so.toutiao.com/search?keyword=中方对美产相关模拟芯片发起调查)
-1. [周志红被双开：既想当官又想发财](https://so.toutiao.com/search?keyword=周志红被双开：既想当官又想发财)
+1. [新郎高情商接亲回答赢得周围人夸赞](https://so.toutiao.com/search?keyword=新郎高情商接亲回答赢得周围人夸赞)
+1. [中方回应美方经贸会谈前制裁多家中企](https://so.toutiao.com/search?keyword=中方回应美方经贸会谈前制裁多家中企)
+1. [大量巴勒斯坦人排成长队被以军押送](https://so.toutiao.com/search?keyword=大量巴勒斯坦人排成长队被以军押送)
+1. [官方辟谣峨眉山猴子被击毙](https://so.toutiao.com/search?keyword=官方辟谣峨眉山猴子被击毙)
+1. [英国为何对3家中企发起制裁](https://so.toutiao.com/search?keyword=英国为何对3家中企发起制裁)
+1. [卡塔尔：感谢中国坚定支持](https://so.toutiao.com/search?keyword=卡塔尔：感谢中国坚定支持)
 1. [哪10个国家反对《纽约宣言》](https://so.toutiao.com/search?keyword=哪10个国家反对《纽约宣言》)
+1. [中方对美产相关模拟芯片发起调查](https://so.toutiao.com/search?keyword=中方对美产相关模拟芯片发起调查)
 1. [“餐厅是否使用预制菜”将强制披露](https://so.toutiao.com/search?keyword=“餐厅是否使用预制菜”将强制披露)
 1. [唐嫣获金熊猫奖最佳女主角](https://so.toutiao.com/search?keyword=唐嫣获金熊猫奖最佳女主角)
-1. [卡塔尔：感谢中国坚定支持](https://so.toutiao.com/search?keyword=卡塔尔：感谢中国坚定支持)
-1. [媒体：严惩“摸头男”守护安全感](https://so.toutiao.com/search?keyword=媒体：严惩“摸头男”守护安全感)
-1. [俄媒曝美军正研发25款武器对抗中国](https://so.toutiao.com/search?keyword=俄媒曝美军正研发25款武器对抗中国)
-1. [卡塔尔多哈遭以军袭击前后对比](https://so.toutiao.com/search?keyword=卡塔尔多哈遭以军袭击前后对比)
 1. [孙菲菲官宣离婚](https://so.toutiao.com/search?keyword=孙菲菲官宣离婚)
-1. [美国取消800美元免税影响有多大](https://so.toutiao.com/search?keyword=美国取消800美元免税影响有多大)
-1. [墨西哥为何执意对华加税](https://so.toutiao.com/search?keyword=墨西哥为何执意对华加税)
-1. [朝中社一天发布三条金正恩动态](https://so.toutiao.com/search?keyword=朝中社一天发布三条金正恩动态)
-1. [以军导弹横穿沙特击中多哈是真的吗](https://so.toutiao.com/search?keyword=以军导弹横穿沙特击中多哈是真的吗)
-1. [过航台湾海峡的美英军舰什么来历](https://so.toutiao.com/search?keyword=过航台湾海峡的美英军舰什么来历)
+1. [俄媒曝美军正研发25款武器对抗中国](https://so.toutiao.com/search?keyword=俄媒曝美军正研发25款武器对抗中国)
 1. [无人机进波兰领空 中方呼吁各方克制](https://so.toutiao.com/search?keyword=无人机进波兰领空%20中方呼吁各方克制)
-1. [孙颖莎晋级半决赛 国乒包揽女单4强](https://so.toutiao.com/search?keyword=孙颖莎晋级半决赛%20国乒包揽女单4强)
-1. [俄财长：中俄拟建清算机构规避西方](https://so.toutiao.com/search?keyword=俄财长：中俄拟建清算机构规避西方)
+1. [过航台湾海峡的美英军舰什么来历](https://so.toutiao.com/search?keyword=过航台湾海峡的美英军舰什么来历)
 1. [媒体：罗永浩的执念可以放下](https://so.toutiao.com/search?keyword=媒体：罗永浩的执念可以放下)
-1. [朱婷会回归中国女排吗](https://so.toutiao.com/search?keyword=朱婷会回归中国女排吗)
-1. [王楚钦神回答逗笑全场](https://so.toutiao.com/search?keyword=王楚钦神回答逗笑全场)
+1. [卡塔尔多哈遭以军袭击前后对比](https://so.toutiao.com/search?keyword=卡塔尔多哈遭以军袭击前后对比)
+1. [朝中社一天发布三条金正恩动态](https://so.toutiao.com/search?keyword=朝中社一天发布三条金正恩动态)
 1. [博主：别把食物和尊严当成可替代品](https://so.toutiao.com/search?keyword=博主：别把食物和尊严当成可替代品)
+1. [周志红被双开：既想当官又想发财](https://so.toutiao.com/search?keyword=周志红被双开：既想当官又想发财)
+1. [武契奇回应中国网友称呼他“577”](https://so.toutiao.com/search?keyword=武契奇回应中国网友称呼他“577”)
+1. [何超琼现身福耀科技大学开学典礼](https://so.toutiao.com/search?keyword=何超琼现身福耀科技大学开学典礼)
+1. [曝特朗普对以总理的不满情绪有所加深](https://so.toutiao.com/search?keyword=曝特朗普对以总理的不满情绪有所加深)
+1. [俄财长：中俄拟建清算机构规避西方](https://so.toutiao.com/search?keyword=俄财长：中俄拟建清算机构规避西方)
+1. [美国取消800美元免税影响有多大](https://so.toutiao.com/search?keyword=美国取消800美元免税影响有多大)
+1. [媒体：严惩“摸头男”守护安全感](https://so.toutiao.com/search?keyword=媒体：严惩“摸头男”守护安全感)
+1. [孙颖莎晋级半决赛 国乒包揽女单4强](https://so.toutiao.com/search?keyword=孙颖莎晋级半决赛%20国乒包揽女单4强)
+1. [表演艺术家陈奇去世 享年96岁](https://so.toutiao.com/search?keyword=表演艺术家陈奇去世%20享年96岁)
 1. [常州队1-2宿迁队两轮不胜](https://so.toutiao.com/search?keyword=常州队1-2宿迁队两轮不胜)
+1. [湖北一干部诬陷22名领导干部被刑拘](https://so.toutiao.com/search?keyword=湖北一干部诬陷22名领导干部被刑拘)
+1. [游客自驾撞死6匹马 牧民让赔4.5万](https://so.toutiao.com/search?keyword=游客自驾撞死6匹马%20牧民让赔4.5万)
+1. [朱婷会回归中国女排吗](https://so.toutiao.com/search?keyword=朱婷会回归中国女排吗)
+1. [专家：《纽约宣言》恐难落实](https://so.toutiao.com/search?keyword=专家：《纽约宣言》恐难落实)
+1. [福建舰此次海试任务与前8次有何不同](https://so.toutiao.com/search?keyword=福建舰此次海试任务与前8次有何不同)
+1. [专家：台当局只剩“嘴硬”](https://so.toutiao.com/search?keyword=专家：台当局只剩“嘴硬”)
+1. [台馆长借毛泽东名言谈中国人为何爱国](https://so.toutiao.com/search?keyword=台馆长借毛泽东名言谈中国人为何爱国)
+1. [委副总统：美国是向整个星球宣战](https://so.toutiao.com/search?keyword=委副总统：美国是向整个星球宣战)
+1. [墨西哥为何执意对华加税](https://so.toutiao.com/search?keyword=墨西哥为何执意对华加税)
+1. [乃万拉群质问李嘉格车澈](https://so.toutiao.com/search?keyword=乃万拉群质问李嘉格车澈)
+1. [陈凯歌：好的电影永远是温暖的](https://so.toutiao.com/search?keyword=陈凯歌：好的电影永远是温暖的)
+1. [苹果17手机为何卖得火爆](https://so.toutiao.com/search?keyword=苹果17手机为何卖得火爆)
+1. [时隔半年奶奶到来 男孩奔跑迎接](https://so.toutiao.com/search?keyword=时隔半年奶奶到来%20男孩奔跑迎接)
+1. [匈牙利总理罕见称俄行为不可接受](https://so.toutiao.com/search?keyword=匈牙利总理罕见称俄行为不可接受)
+1. [胡塞称使用高超音速导弹袭击以色列](https://so.toutiao.com/search?keyword=胡塞称使用高超音速导弹袭击以色列)
+1. [淄博齐稷联合队战胜济南取得开门红](https://so.toutiao.com/search?keyword=淄博齐稷联合队战胜济南取得开门红)
+1. [以军导弹横穿沙特击中多哈是真的吗](https://so.toutiao.com/search?keyword=以军导弹横穿沙特击中多哈是真的吗)
+1. [王楚钦神回答逗笑全场](https://so.toutiao.com/search?keyword=王楚钦神回答逗笑全场)
 1. [成毅跳天津卫版刀马刀马](https://so.toutiao.com/search?keyword=成毅跳天津卫版刀马刀马)
 1. [西班牙召见以色列临时代办](https://so.toutiao.com/search?keyword=西班牙召见以色列临时代办)
-1. [何超琼现身福耀科技大学开学典礼](https://so.toutiao.com/search?keyword=何超琼现身福耀科技大学开学典礼)
-1. [委副总统：美国是向整个星球宣战](https://so.toutiao.com/search?keyword=委副总统：美国是向整个星球宣战)
-1. [福建舰此次海试任务与前8次有何不同](https://so.toutiao.com/search?keyword=福建舰此次海试任务与前8次有何不同)
 1. [李维嘉因为谢娜才下决心复出](https://so.toutiao.com/search?keyword=李维嘉因为谢娜才下决心复出)
-1. [表演艺术家陈奇去世 享年96岁](https://so.toutiao.com/search?keyword=表演艺术家陈奇去世%20享年96岁)
-1. [武契奇回应中国网友称呼他“577”](https://so.toutiao.com/search?keyword=武契奇回应中国网友称呼他“577”)
 1. [联大批准《纽约宣言》有何重要意义](https://so.toutiao.com/search?keyword=联大批准《纽约宣言》有何重要意义)
-1. [乃万拉群质问李嘉格车澈](https://so.toutiao.com/search?keyword=乃万拉群质问李嘉格车澈)
 1. [陆、海、空基导弹外形为何各不相同](https://so.toutiao.com/search?keyword=陆、海、空基导弹外形为何各不相同)
-1. [专家：《纽约宣言》恐难落实](https://so.toutiao.com/search?keyword=专家：《纽约宣言》恐难落实)
 1. [评论员：欧洲学习乌拦截无人机经验](https://so.toutiao.com/search?keyword=评论员：欧洲学习乌拦截无人机经验)
-1. [陈凯歌：好的电影永远是温暖的](https://so.toutiao.com/search?keyword=陈凯歌：好的电影永远是温暖的)
 1. [特朗普对华政策致使美农民绝望喊话](https://so.toutiao.com/search?keyword=特朗普对华政策致使美农民绝望喊话)
 1. [西方国家支持巴勒斯坦意味着什么](https://so.toutiao.com/search?keyword=西方国家支持巴勒斯坦意味着什么)
 1. [实拍北京冰雹大如乒乓球](https://so.toutiao.com/search?keyword=实拍北京冰雹大如乒乓球)
 1. [专家：美国权力博弈进入“肉搏期”](https://so.toutiao.com/search?keyword=专家：美国权力博弈进入“肉搏期”)
 1. [胡塞“多弹头导弹”究竟使用哪种弹头](https://so.toutiao.com/search?keyword=胡塞“多弹头导弹”究竟使用哪种弹头)
 1. [以军袭击加沙地带多地致死42人](https://so.toutiao.com/search?keyword=以军袭击加沙地带多地致死42人)
-1. [曝特朗普对以总理的不满情绪有所加深](https://so.toutiao.com/search?keyword=曝特朗普对以总理的不满情绪有所加深)
-1. [胡塞称使用高超音速导弹袭击以色列](https://so.toutiao.com/search?keyword=胡塞称使用高超音速导弹袭击以色列)
-1. [专家：台当局只剩“嘴硬”](https://so.toutiao.com/search?keyword=专家：台当局只剩“嘴硬”)
 1. [林诗栋无缘WTT澳门冠军赛4强](https://so.toutiao.com/search?keyword=林诗栋无缘WTT澳门冠军赛4强)
 1. [本轮巴以冲突已致加沙64803人死亡](https://so.toutiao.com/search?keyword=本轮巴以冲突已致加沙64803人死亡)
 1. [中国女篮83-86不敌云南财大男篮](https://so.toutiao.com/search?keyword=中国女篮83-86不敌云南财大男篮)
 1. [王琳称高中是人生中最努力的阶段](https://so.toutiao.com/search?keyword=王琳称高中是人生中最努力的阶段)
 1. [郑丽文直言“蓝白合”很重要](https://so.toutiao.com/search?keyword=郑丽文直言“蓝白合”很重要)
 1. [为何说中美关税战进入攻坚期](https://so.toutiao.com/search?keyword=为何说中美关税战进入攻坚期)
-1. [台馆长借毛泽东名言谈中国人为何爱国](https://so.toutiao.com/search?keyword=台馆长借毛泽东名言谈中国人为何爱国)
-1. [匈牙利总理罕见称俄行为不可接受](https://so.toutiao.com/search?keyword=匈牙利总理罕见称俄行为不可接受)
 1. [莫斯科交易所暂停股票交易](https://so.toutiao.com/search?keyword=莫斯科交易所暂停股票交易)
 1. [媒体评“小便门”：警告父母管好孩子](https://so.toutiao.com/search?keyword=媒体评“小便门”：警告父母管好孩子)
 1. [福建舰距离入列服役不远了？专家解析](https://so.toutiao.com/search?keyword=福建舰距离入列服役不远了？专家解析)
-1. [湖北一干部诬陷22名领导干部被刑拘](https://so.toutiao.com/search?keyword=湖北一干部诬陷22名领导干部被刑拘)
-1. [苹果17手机为何卖得火爆](https://so.toutiao.com/search?keyword=苹果17手机为何卖得火爆)
 1. [刘敏涛穿红色高跟鞋亮相金熊猫红毯](https://so.toutiao.com/search?keyword=刘敏涛穿红色高跟鞋亮相金熊猫红毯)
 1. [丈夫失踪20多年 妻子立遗嘱防争家产](https://so.toutiao.com/search?keyword=丈夫失踪20多年%20妻子立遗嘱防争家产)
 1. [赵明剑：重庆足球底蕴特别强](https://so.toutiao.com/search?keyword=赵明剑：重庆足球底蕴特别强)
@@ -104,7 +107,6 @@
 1. [美国选手莱尔斯晋级半决赛](https://so.toutiao.com/search?keyword=美国选手莱尔斯晋级半决赛)
 1. [俄白联合军演有何战略意图](https://so.toutiao.com/search?keyword=俄白联合军演有何战略意图)
 1. [南京大学举行2025级本科生开学典礼](https://so.toutiao.com/search?keyword=南京大学举行2025级本科生开学典礼)
-1. [游客自驾撞死6匹马 牧民让赔4.5万](https://so.toutiao.com/search?keyword=游客自驾撞死6匹马%20牧民让赔4.5万)
 1. [母亲去世 男子到家后跪地痛哭](https://so.toutiao.com/search?keyword=母亲去世%20男子到家后跪地痛哭)
 1. [女子好心扶大爷过马路反被扇掉眼镜](https://so.toutiao.com/search?keyword=女子好心扶大爷过马路反被扇掉眼镜)
 1. [女子在瓜地发现“东西瓜”](https://so.toutiao.com/search?keyword=女子在瓜地发现“东西瓜”)
@@ -139,7 +141,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Sep 14 2025 06:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 14 2025 07:09:27 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUQUESTIONS -->
 
@@ -148,7 +150,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Sun Sep 14 2025 06:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 14 2025 07:09:27 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUVIDEO -->
 
@@ -157,7 +159,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sun Sep 14 2025 06:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 14 2025 07:09:27 GMT+0800 (China Standard Time) -->
 1. [走和平发展的人间正道](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%E7%9A%84%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93%23&Refer=new_time)
 1. [应急局回应山东现不明飞行物被击落](https://s.weibo.com//weibo?q=%23%E5%BA%94%E6%80%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B1%B1%E4%B8%9C%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%A2%AB%E5%87%BB%E8%90%BD%23&t=31&band_rank=1&Refer=top)
 1. [朱一龙金熊猫影帝](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%87%91%E7%86%8A%E7%8C%AB%E5%BD%B1%E5%B8%9D%23&t=31&band_rank=2&Refer=top)

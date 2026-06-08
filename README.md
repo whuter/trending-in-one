@@ -24,9 +24,57 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Jun 08 2026 07:59:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 08 2026 11:58:25 GMT+0800 (China Standard Time) -->
+1. [菲律宾群岛地区发生7.9级地震](https://so.toutiao.com/search?keyword=菲律宾群岛地区发生7.9级地震)
+1. [985警车快被摸包浆了](https://so.toutiao.com/search?keyword=985警车快被摸包浆了)
+1. [用心用情暖心护考 筑牢高考保障防线](https://so.toutiao.com/search?keyword=用心用情暖心护考%20筑牢高考保障防线)
+1. [菲律宾3层高披萨店数秒内塌成废墟](https://so.toutiao.com/search?keyword=菲律宾3层高披萨店数秒内塌成废墟)
 1. [女孩考完数学自信估分149到150分](https://so.toutiao.com/search?keyword=女孩考完数学自信估分149到150分)
+1. [业内：A股再度迎来4000点关口考验](https://so.toutiao.com/search?keyword=业内：A股再度迎来4000点关口考验)
+1. [菲律宾桑托斯将军城机场暂时关闭](https://so.toutiao.com/search?keyword=菲律宾桑托斯将军城机场暂时关闭)
+1. [考生：今年高考数学难度较往年偏低](https://so.toutiao.com/search?keyword=考生：今年高考数学难度较往年偏低)
+1. [时隔两月伊朗向以色列发动导弹袭击](https://so.toutiao.com/search?keyword=时隔两月伊朗向以色列发动导弹袭击)
+1. [苏拉威西海发生6.6级地震](https://so.toutiao.com/search?keyword=苏拉威西海发生6.6级地震)
+1. [多用洗眼液可以保护眼睛？无依据](https://so.toutiao.com/search?keyword=多用洗眼液可以保护眼睛？无依据)
+1. [男生走出考场大喊妈家长齐回答](https://so.toutiao.com/search?keyword=男生走出考场大喊妈家长齐回答)
+1. [日本气象厅发布海啸预警](https://so.toutiao.com/search?keyword=日本气象厅发布海啸预警)
+1. [张月直接离场了](https://so.toutiao.com/search?keyword=张月直接离场了)
+1. [妈妈为穿旗袍送考狂瘦22斤](https://so.toutiao.com/search?keyword=妈妈为穿旗袍送考狂瘦22斤)
+1. [记者：中东或重回全面战争边缘](https://so.toutiao.com/search?keyword=记者：中东或重回全面战争边缘)
+1. [媒体：足球小将赢了应该被认可](https://so.toutiao.com/search?keyword=媒体：足球小将赢了应该被认可)
+1. [高考作文何以牵动如此广泛的关注](https://so.toutiao.com/search?keyword=高考作文何以牵动如此广泛的关注)
+1. [伊朗首都德黑兰响起爆炸声](https://so.toutiao.com/search?keyword=伊朗首都德黑兰响起爆炸声)
+1. [四川康定发生4.5级地震](https://so.toutiao.com/search?keyword=四川康定发生4.5级地震)
+1. [2026年高考数学全国卷试题评析](https://so.toutiao.com/search?keyword=2026年高考数学全国卷试题评析)
+1. [魏晓奎任福建省纪委书记](https://so.toutiao.com/search?keyword=魏晓奎任福建省纪委书记)
+1. [自闭症男子进店拿饮料 老板暖心引导](https://so.toutiao.com/search?keyword=自闭症男子进店拿饮料%20老板暖心引导)
+1. [同一考场三名高考生提前交卷出考场](https://so.toutiao.com/search?keyword=同一考场三名高考生提前交卷出考场)
+1. [又被中国女排感动到了](https://so.toutiao.com/search?keyword=又被中国女排感动到了)
+1. [博主：泽连斯基求和有两大现实因素](https://so.toutiao.com/search?keyword=博主：泽连斯基求和有两大现实因素)
+1. [考生发现走错考场 铁骑“零秒响应”](https://so.toutiao.com/search?keyword=考生发现走错考场%20铁骑“零秒响应”)
+1. [被蚊子咬了如何快速止痒](https://so.toutiao.com/search?keyword=被蚊子咬了如何快速止痒)
+1. [解放军驱离外军手段不断升级](https://so.toutiao.com/search?keyword=解放军驱离外军手段不断升级)
+1. [考生走错考场 交警疾驰22公里护送](https://so.toutiao.com/search?keyword=考生走错考场%20交警疾驰22公里护送)
+1. [国内汽柴油价格或继续下跌](https://so.toutiao.com/search?keyword=国内汽柴油价格或继续下跌)
+1. [胡枫开演唱会聚齐半个港圈大咖](https://so.toutiao.com/search?keyword=胡枫开演唱会聚齐半个港圈大咖)
+1. [全部保送北大的送考团为同学助威](https://so.toutiao.com/search?keyword=全部保送北大的送考团为同学助威)
+1. [以军说监测到一枚从也门发射的导弹](https://so.toutiao.com/search?keyword=以军说监测到一枚从也门发射的导弹)
+1. [为什么没人愿意办世界杯了](https://so.toutiao.com/search?keyword=为什么没人愿意办世界杯了)
+1. [吉林白山4179名考生参加高考](https://so.toutiao.com/search?keyword=吉林白山4179名考生参加高考)
+1. [A股科技创新50强出炉](https://so.toutiao.com/search?keyword=A股科技创新50强出炉)
+1. [人工智能成为中国经济关键新力量](https://so.toutiao.com/search?keyword=人工智能成为中国经济关键新力量)
+1. [今年高考物理到底难不难](https://so.toutiao.com/search?keyword=今年高考物理到底难不难)
+1. [鸡蛋涨价背后是一场产业链自救](https://so.toutiao.com/search?keyword=鸡蛋涨价背后是一场产业链自救)
+1. [演员杨雪回应结婚原因](https://so.toutiao.com/search?keyword=演员杨雪回应结婚原因)
+1. [他们笔下的2026高考作文](https://so.toutiao.com/search?keyword=他们笔下的2026高考作文)
+1. [一架私人飞机在多米尼加坠毁](https://so.toutiao.com/search?keyword=一架私人飞机在多米尼加坠毁)
+1. [记者：以色列战术成果有限](https://so.toutiao.com/search?keyword=记者：以色列战术成果有限)
+1. [今年上海高考数学难吗](https://so.toutiao.com/search?keyword=今年上海高考数学难吗)
+1. [中国女排后续赛事预告](https://so.toutiao.com/search?keyword=中国女排后续赛事预告)
+1. [埃里克森突然晕倒比赛取消](https://so.toutiao.com/search?keyword=埃里克森突然晕倒比赛取消)
+1. [女孩抱着残疾同学从容走出考场](https://so.toutiao.com/search?keyword=女孩抱着残疾同学从容走出考场)
 1. [日本市中心道路上车辆被火山灰覆盖](https://so.toutiao.com/search?keyword=日本市中心道路上车辆被火山灰覆盖)
+1. [民警考场外和“粉丝”约定警队相见](https://so.toutiao.com/search?keyword=民警考场外和“粉丝”约定警队相见)
 1. [致敬奋斗时光 2026高考场外图鉴](https://so.toutiao.com/search?keyword=致敬奋斗时光%202026高考场外图鉴)
 1. [“锦鲤老师”精准押中文言文原题](https://so.toutiao.com/search?keyword=“锦鲤老师”精准押中文言文原题)
 1. [解放军新052D入列台军为何空前震动](https://so.toutiao.com/search?keyword=解放军新052D入列台军为何空前震动)
@@ -36,8 +84,6 @@
 1. [九寨沟发生车祸致6人死亡](https://so.toutiao.com/search?keyword=九寨沟发生车祸致6人死亡)
 1. [兹维列夫生涯首获法网冠军](https://so.toutiao.com/search?keyword=兹维列夫生涯首获法网冠军)
 1. [官方辟谣游客三亚拍照遭拦路收费](https://so.toutiao.com/search?keyword=官方辟谣游客三亚拍照遭拦路收费)
-1. [张月直接离场了](https://so.toutiao.com/search?keyword=张月直接离场了)
-1. [埃里克森突然晕倒比赛取消](https://so.toutiao.com/search?keyword=埃里克森突然晕倒比赛取消)
 1. [男生高考认考场发现教室就自己1人](https://so.toutiao.com/search?keyword=男生高考认考场发现教室就自己1人)
 1. [官方通报养猪场负责人阻挠铁路施工](https://so.toutiao.com/search?keyword=官方通报养猪场负责人阻挠铁路施工)
 1. [刘德华护航《给阿嬷的情书》勇闯香港](https://so.toutiao.com/search?keyword=刘德华护航《给阿嬷的情书》勇闯香港)
@@ -52,11 +98,9 @@
 1. [中国U18男篮不敌日本](https://so.toutiao.com/search?keyword=中国U18男篮不敌日本)
 1. [考生忘带身份证 骑手7分钟送来](https://so.toutiao.com/search?keyword=考生忘带身份证%20骑手7分钟送来)
 1. [登贝莱告知姆巴佩在国家队要多防守](https://so.toutiao.com/search?keyword=登贝莱告知姆巴佩在国家队要多防守)
-1. [全部保送北大的送考团为同学助威](https://so.toutiao.com/search?keyword=全部保送北大的送考团为同学助威)
 1. [“高情商”民警：985、211家长往后退](https://so.toutiao.com/search?keyword=“高情商”民警：985、211家长往后退)
 1. [考生进考场前打哈欠下巴脱臼](https://so.toutiao.com/search?keyword=考生进考场前打哈欠下巴脱臼)
 1. [为何说鸡蛋涨价了不是坏事](https://so.toutiao.com/search?keyword=为何说鸡蛋涨价了不是坏事)
-1. [女孩抱着残疾同学从容走出考场](https://so.toutiao.com/search?keyword=女孩抱着残疾同学从容走出考场)
 1. [小伙走出考场直呼“加强安琪拉”](https://so.toutiao.com/search?keyword=小伙走出考场直呼“加强安琪拉”)
 1. [“大黑牛”李晨妹妹结婚](https://so.toutiao.com/search?keyword=“大黑牛”李晨妹妹结婚)
 1. [这届考生心态简直遥遥领先](https://so.toutiao.com/search?keyword=这届考生心态简直遥遥领先)
@@ -72,7 +116,6 @@
 1. [电视剧《主角》凭何“夯爆”全国](https://so.toutiao.com/search?keyword=电视剧《主角》凭何“夯爆”全国)
 1. [化工废料翻新成一次性牙刷流入市场](https://so.toutiao.com/search?keyword=化工废料翻新成一次性牙刷流入市场)
 1. [父亲目送孩子进考场后抱妻子哭泣](https://so.toutiao.com/search?keyword=父亲目送孩子进考场后抱妻子哭泣)
-1. [胡枫开演唱会聚齐半个港圈大咖](https://so.toutiao.com/search?keyword=胡枫开演唱会聚齐半个港圈大咖)
 1. [低保老人被贷款20万15人被处理](https://so.toutiao.com/search?keyword=低保老人被贷款20万15人被处理)
 1. [考场外满身泥水的父亲找到了](https://so.toutiao.com/search?keyword=考场外满身泥水的父亲找到了)
 1. [高考数学结束有学生直呼“考爽了”](https://so.toutiao.com/search?keyword=高考数学结束有学生直呼“考爽了”)
@@ -140,7 +183,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Jun 08 2026 07:59:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 08 2026 11:58:25 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUQUESTIONS -->
 
@@ -149,7 +192,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Mon Jun 08 2026 07:59:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 08 2026 11:58:25 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUVIDEO -->
 
@@ -158,7 +201,58 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Jun 08 2026 07:59:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 08 2026 11:58:25 GMT+0800 (China Standard Time) -->
+1. [习近平在朝鲜媒体发表署名文章](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%9C%9D%E9%B2%9C%E5%AA%92%E4%BD%93%E5%8F%91%E8%A1%A8%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0%23&Refer=new_time)
+1. [朝方在机场热情迎接](https://s.weibo.com//weibo?q=%23%E6%9C%9D%E6%96%B9%E5%9C%A8%E6%9C%BA%E5%9C%BA%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5%23&t=31&band_rank=1&Refer=top)
+1. [高考物理](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=2&Refer=top)
+1. [连续16年送考这份坚守令人动容](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E7%BB%AD16%E5%B9%B4%E9%80%81%E8%80%83%E8%BF%99%E4%BB%BD%E5%9D%9A%E5%AE%88%E4%BB%A4%E4%BA%BA%E5%8A%A8%E5%AE%B9%23&t=31&band_rank=3&Refer=top)
+1. [高考历史](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2&t=31&band_rank=4&Refer=top)
+1. [历史二卷 盲人摸象](https://s.weibo.com//weibo?q=%E5%8E%86%E5%8F%B2%E4%BA%8C%E5%8D%B7%20%E7%9B%B2%E4%BA%BA%E6%91%B8%E8%B1%A1&t=31&band_rank=5&Refer=top)
+1. [新能源车变胖让老司机都犯愁](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%8F%98%E8%83%96%E8%AE%A9%E8%80%81%E5%8F%B8%E6%9C%BA%E9%83%BD%E7%8A%AF%E6%84%81%23&t=31&band_rank=6&Refer=top)
+1. [王源留胡渣了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E7%95%99%E8%83%A1%E6%B8%A3%E4%BA%86%23&t=31&band_rank=7&Refer=top)
+1. [黄灿灿四公个喜第19](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%9B%9B%E5%85%AC%E4%B8%AA%E5%96%9C%E7%AC%AC19%23&t=31&band_rank=8&Refer=top)
+1. [登贝莱要求姆巴佩多防守](https://s.weibo.com//weibo?q=%23%E7%99%BB%E8%B4%9D%E8%8E%B1%E8%A6%81%E6%B1%82%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%9A%E9%98%B2%E5%AE%88%23&t=31&band_rank=9&Refer=top)
+1. [ChatGPT转型](https://s.weibo.com//weibo?q=%23ChatGPT%E8%BD%AC%E5%9E%8B%23&t=31&band_rank=10&Refer=top)
+1. [历史一卷 创新题给我创飞了](https://s.weibo.com//weibo?q=%E5%8E%86%E5%8F%B2%E4%B8%80%E5%8D%B7%20%E5%88%9B%E6%96%B0%E9%A2%98%E7%BB%99%E6%88%91%E5%88%9B%E9%A3%9E%E4%BA%86&t=31&band_rank=11&Refer=top)
+1. [王源裸上身淋浴戏](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A3%B8%E4%B8%8A%E8%BA%AB%E6%B7%8B%E6%B5%B4%E6%88%8F%23&t=31&band_rank=12&Refer=top)
+1. [女孩考完数学自信估分149到150](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E5%AE%8C%E6%95%B0%E5%AD%A6%E8%87%AA%E4%BF%A1%E4%BC%B0%E5%88%86149%E5%88%B0150%23&t=31&band_rank=13&Refer=top)
+1. [张慧雯原来是哭着跳完的](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%93%AD%E7%9D%80%E8%B7%B3%E5%AE%8C%E7%9A%84%23&t=31&band_rank=14&Refer=top)
+1. [奚梦瑶婚礼后去看法网](https://s.weibo.com//weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%A9%9A%E7%A4%BC%E5%90%8E%E5%8E%BB%E7%9C%8B%E6%B3%95%E7%BD%91%23&t=31&band_rank=15&Refer=top)
+1. [骂对方小孩没家教遭暴打男子发声](https://s.weibo.com//weibo?q=%23%E9%AA%82%E5%AF%B9%E6%96%B9%E5%B0%8F%E5%AD%A9%E6%B2%A1%E5%AE%B6%E6%95%99%E9%81%AD%E6%9A%B4%E6%89%93%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=16&Refer=top)
+1. [张月全程一直黑脸](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9C%88%E5%85%A8%E7%A8%8B%E4%B8%80%E7%9B%B4%E9%BB%91%E8%84%B8%23&t=31&band_rank=17&Refer=top)
+1. [金价](https://s.weibo.com//weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=18&Refer=top)
+1. [A股行情](https://s.weibo.com//weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=19&Refer=top)
+1. [相信什么就会吸引什么](https://s.weibo.com//weibo?q=%E7%9B%B8%E4%BF%A1%E4%BB%80%E4%B9%88%E5%B0%B1%E4%BC%9A%E5%90%B8%E5%BC%95%E4%BB%80%E4%B9%88&t=31&band_rank=20&Refer=top)
+1. [霍思燕爱犬在意大利夺冠](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E7%88%B1%E7%8A%AC%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%BA%E5%86%A0%23&t=31&band_rank=21&Refer=top)
+1. [麦琳带货口条好清晰](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E7%90%B3%E5%B8%A6%E8%B4%A7%E5%8F%A3%E6%9D%A1%E5%A5%BD%E6%B8%85%E6%99%B0%23&t=31&band_rank=22&Refer=top)
+1. [NBA](https://s.weibo.com//weibo?q=NBA&t=31&band_rank=23&Refer=top)
+1. [金秀贤重启活动](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E9%87%8D%E5%90%AF%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=24&Refer=top)
+1. [律师谈牙医偷拍黄子韬](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E7%89%99%E5%8C%BB%E5%81%B7%E6%8B%8D%E9%BB%84%E5%AD%90%E9%9F%AC%23&t=31&band_rank=25&Refer=top)
+1. [现在的年轻人竞争压力太大](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%AB%9E%E4%BA%89%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7&t=31&band_rank=26&Refer=top)
+1. [洪洋杨紫李现是北影的同一届同学](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E6%B4%8B%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E6%98%AF%E5%8C%97%E5%BD%B1%E7%9A%84%E5%90%8C%E4%B8%80%E5%B1%8A%E5%90%8C%E5%AD%A6%23&t=31&band_rank=27&Refer=top)
+1. [活泼的黄灿灿也颓了](https://s.weibo.com//weibo?q=%23%E6%B4%BB%E6%B3%BC%E7%9A%84%E9%BB%84%E7%81%BF%E7%81%BF%E4%B9%9F%E9%A2%93%E4%BA%86%23&t=31&band_rank=28&Refer=top)
+1. [张月直接离场了](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9C%88%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E4%BA%86&t=31&band_rank=29&Refer=top)
+1. [物理一卷考哭了](https://s.weibo.com//weibo?q=%E7%89%A9%E7%90%86%E4%B8%80%E5%8D%B7%E8%80%83%E5%93%AD%E4%BA%86&t=31&band_rank=30&Refer=top)
+1. [一周不洗的床单上有什么](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%91%A8%E4%B8%8D%E6%B4%97%E7%9A%84%E5%BA%8A%E5%8D%95%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88%23&t=31&band_rank=31&Refer=top)
+1. [菲律宾群岛7.9级地震](https://s.weibo.com//weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B7.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=32&Refer=top)
+1. [华为云助推医疗AI规模化应用](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%91%E5%8A%A9%E6%8E%A8%E5%8C%BB%E7%96%97AI%E8%A7%84%E6%A8%A1%E5%8C%96%E5%BA%94%E7%94%A8%23&t=31&band_rank=33&Refer=top)
+1. [江语晨黑脸](https://s.weibo.com//weibo?q=%E6%B1%9F%E8%AF%AD%E6%99%A8%E9%BB%91%E8%84%B8&t=31&band_rank=34&Refer=top)
+1. [发现外星生命须立即通报联合国](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E7%94%9F%E5%91%BD%E9%A1%BB%E7%AB%8B%E5%8D%B3%E9%80%9A%E6%8A%A5%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=35&Refer=top)
+1. [枇杷正确吃法](https://s.weibo.com//weibo?q=%E6%9E%87%E6%9D%B7%E6%AD%A3%E7%A1%AE%E5%90%83%E6%B3%95&t=31&band_rank=36&Refer=top)
+1. [马年考商鞅变法](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%B9%B4%E8%80%83%E5%95%86%E9%9E%85%E5%8F%98%E6%B3%95&t=31&band_rank=37&Refer=top)
+1. [孙怡雨里摔倒了](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E9%9B%A8%E9%87%8C%E6%91%94%E5%80%92%E4%BA%86%23&t=31&band_rank=38&Refer=top)
+1. [以色列正在攻击伊朗境内目标](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%9C%A8%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=39&Refer=top)
+1. [男子夜班关闭门窗体温飙到41度去世](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9C%E7%8F%AD%E5%85%B3%E9%97%AD%E9%97%A8%E7%AA%97%E4%BD%93%E6%B8%A9%E9%A3%99%E5%88%B041%E5%BA%A6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=40&Refer=top)
+1. [爱情有烟火](https://s.weibo.com//weibo?q=%E7%88%B1%E6%83%85%E6%9C%89%E7%83%9F%E7%81%AB&t=31&band_rank=41&Refer=top)
+1. [高考数学](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=42&Refer=top)
+1. [浪姐五公先选人再选歌](https://s.weibo.com//weibo?q=%23%E6%B5%AA%E5%A7%90%E4%BA%94%E5%85%AC%E5%85%88%E9%80%89%E4%BA%BA%E5%86%8D%E9%80%89%E6%AD%8C%23&t=31&band_rank=43&Refer=top)
+1. [特朗普接受美媒采访摔麦离场](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%AA%92%E9%87%87%E8%AE%BF%E6%91%94%E9%BA%A6%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=44&Refer=top)
+1. [广东物理 难](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E7%89%A9%E7%90%86%20%E9%9A%BE&t=31&band_rank=45&Refer=top)
+1. [埃里克森心脏起搏器工作正常](https://s.weibo.com//weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E5%BF%83%E8%84%8F%E8%B5%B7%E6%90%8F%E5%99%A8%E5%B7%A5%E4%BD%9C%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=46&Refer=top)
+1. [44岁网红车祸去世知情人发声](https://s.weibo.com//weibo?q=%2344%E5%B2%81%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=47&Refer=top)
+1. [董璇张维伊小酒窝手牵手下班](https://s.weibo.com//weibo?q=%23%E8%91%A3%E7%92%87%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%B0%8F%E9%85%92%E7%AA%9D%E6%89%8B%E7%89%B5%E6%89%8B%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=48&Refer=top)
+1. [世界杯](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=49&Refer=top)
+1. [高考](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=50&Refer=top)
 1. [这些名字见证中朝友谊](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BA%9B%E5%90%8D%E5%AD%97%E8%A7%81%E8%AF%81%E4%B8%AD%E6%9C%9D%E5%8F%8B%E8%B0%8A%23&Refer=new_time)
 1. [张月直接离场了](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9C%88%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E4%BA%86&t=31&band_rank=1&Refer=top)
 1. [高考](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=2&Refer=top)

@@ -24,13 +24,59 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Jun 12 2026 07:14:09 GMT+0800 (China Standard Time) -->
-1. [十人墨西哥2-0九人南非](https://so.toutiao.com/search?keyword=十人墨西哥2-0九人南非)
-1. [揭幕战红牌比进球都多](https://so.toutiao.com/search?keyword=揭幕战红牌比进球都多)
+<!-- 最后更新时间 Fri Jun 12 2026 10:35:29 GMT+0800 (China Standard Time) -->
+1. [媒体陪看世界杯：韩国VS捷克](https://so.toutiao.com/search?keyword=媒体陪看世界杯：韩国VS捷克)
+1. [泰国公主帕查拉吉迪雅帕逝世](https://so.toutiao.com/search?keyword=泰国公主帕查拉吉迪雅帕逝世)
 1. [一张网夯实水安全坚实底座](https://so.toutiao.com/search?keyword=一张网夯实水安全坚实底座)
-1. [Labubu现身世界杯开幕式](https://so.toutiao.com/search?keyword=Labubu现身世界杯开幕式)
-1. [中方宣布制裁菲律宾国防部长](https://so.toutiao.com/search?keyword=中方宣布制裁菲律宾国防部长)
+1. [世界杯中国队首发：LABUBU和马宁 ](https://so.toutiao.com/search?keyword=世界杯中国队首发：LABUBU和马宁%20)
+1. [被制裁的菲防长曾钻后厨躲中国记者](https://so.toutiao.com/search?keyword=被制裁的菲防长曾钻后厨躲中国记者)
+1. [网警披露未履行个人信息保护义务案](https://so.toutiao.com/search?keyword=网警披露未履行个人信息保护义务案)
+1. [19岁女生腹泻入院6小时后死亡](https://so.toutiao.com/search?keyword=19岁女生腹泻入院6小时后死亡)
+1. [墨西哥破世界杯96年魔咒](https://so.toutiao.com/search?keyword=墨西哥破世界杯96年魔咒)
+1. [女子骑电动车带妈妈遇交警](https://so.toutiao.com/search?keyword=女子骑电动车带妈妈遇交警)
+1. [致82人死亡矿难开启“问责链”](https://so.toutiao.com/search?keyword=致82人死亡矿难开启“问责链”)
+1. [于东来否认胖东来降薪传言](https://so.toutiao.com/search?keyword=于东来否认胖东来降薪传言)
+1. [尹锡悦涉“无人机事件”一审被判30年](https://so.toutiao.com/search?keyword=尹锡悦涉“无人机事件”一审被判30年)
+1. [十人墨西哥2-0九人南非](https://so.toutiao.com/search?keyword=十人墨西哥2-0九人南非)
+1. [学生手掌被502粘住“牵手”求助](https://so.toutiao.com/search?keyword=学生手掌被502粘住“牵手”求助)
+1. [农户回应用榴莲喂羊](https://so.toutiao.com/search?keyword=农户回应用榴莲喂羊)
+1. [赵丽娜在世界杯开幕式偶遇大张伟](https://so.toutiao.com/search?keyword=赵丽娜在世界杯开幕式偶遇大张伟)
+1. [大学生疑被指“打工的命”情绪崩溃](https://so.toutiao.com/search?keyword=大学生疑被指“打工的命”情绪崩溃)
+1. [载2人直升机尾部断裂原地打转](https://so.toutiao.com/search?keyword=载2人直升机尾部断裂原地打转)
+1. [墨西哥总统缺席世界杯开幕式](https://so.toutiao.com/search?keyword=墨西哥总统缺席世界杯开幕式)
+1. [日系车扛不住了吗](https://so.toutiao.com/search?keyword=日系车扛不住了吗)
 1. [四川攀枝花消防抓的蛇个个胖成猪](https://so.toutiao.com/search?keyword=四川攀枝花消防抓的蛇个个胖成猪)
+1. [专家：日菲“功利性同盟”有深层裂痕](https://so.toutiao.com/search?keyword=专家：日菲“功利性同盟”有深层裂痕)
+1. [店主邀约4000人看世界杯 0人到店](https://so.toutiao.com/search?keyword=店主邀约4000人看世界杯%200人到店)
+1. [中方宣布制裁菲律宾国防部长](https://so.toutiao.com/search?keyword=中方宣布制裁菲律宾国防部长)
+1. [新能源车越来越多 加油站如何转型](https://so.toutiao.com/search?keyword=新能源车越来越多%20加油站如何转型)
+1. [男子言语骚扰女生被霸气回怼两句滚](https://so.toutiao.com/search?keyword=男子言语骚扰女生被霸气回怼两句滚)
+1. [美军情报上为何对日本“留一手”](https://so.toutiao.com/search?keyword=美军情报上为何对日本“留一手”)
+1. [没有中国队的世界杯我们该期待什么](https://so.toutiao.com/search?keyword=没有中国队的世界杯我们该期待什么)
+1. [消防员纵身一跃救起湖边落水少年](https://so.toutiao.com/search?keyword=消防员纵身一跃救起湖边落水少年)
+1. [网友在沙漠偶遇呆萌小沙鼠](https://so.toutiao.com/search?keyword=网友在沙漠偶遇呆萌小沙鼠)
+1. [本届世界杯半场必须喝水3分钟](https://so.toutiao.com/search?keyword=本届世界杯半场必须喝水3分钟)
+1. [俄负责导弹运输的上校遇袭身亡](https://so.toutiao.com/search?keyword=俄负责导弹运输的上校遇袭身亡)
+1. [大V：美股两大危险信号同时闪现](https://so.toutiao.com/search?keyword=大V：美股两大危险信号同时闪现)
+1. [南非主教练：第二张红牌量刑过重](https://so.toutiao.com/search?keyword=南非主教练：第二张红牌量刑过重)
+1. [卡塔尔埃米尔与特朗普通电话](https://so.toutiao.com/search?keyword=卡塔尔埃米尔与特朗普通电话)
+1. [秦昊伊能静跳复仇摇](https://so.toutiao.com/search?keyword=秦昊伊能静跳复仇摇)
+1. [流水的世界杯 铁打的夏奇拉](https://so.toutiao.com/search?keyword=流水的世界杯%20铁打的夏奇拉)
+1. [《火遮眼》给动作片注入新生代力量](https://so.toutiao.com/search?keyword=《火遮眼》给动作片注入新生代力量)
+1. [中国男篮7月3日在沈阳迎战日本队](https://so.toutiao.com/search?keyword=中国男篮7月3日在沈阳迎战日本队)
+1. [揭幕战两大主帅1986年世界杯曾是对手](https://so.toutiao.com/search?keyword=揭幕战两大主帅1986年世界杯曾是对手)
+1. [香港媒体人现场观看火箭发射](https://so.toutiao.com/search?keyword=香港媒体人现场观看火箭发射)
+1. [刘雨鑫跟着广东龙船队吃宵夜](https://so.toutiao.com/search?keyword=刘雨鑫跟着广东龙船队吃宵夜)
+1. [世界杯官方比赛用球叫“三重浪”](https://so.toutiao.com/search?keyword=世界杯官方比赛用球叫“三重浪”)
+1. [路虎揽胜极光L跌至17.98万](https://so.toutiao.com/search?keyword=路虎揽胜极光L跌至17.98万)
+1. [加密市场提前押注SpaceX估值2.2万亿](https://so.toutiao.com/search?keyword=加密市场提前押注SpaceX估值2.2万亿)
+1. [男生高考后立即回医院照顾重病妈妈](https://so.toutiao.com/search?keyword=男生高考后立即回医院照顾重病妈妈)
+1. [香港太古城两女子接连坠楼身亡](https://so.toutiao.com/search?keyword=香港太古城两女子接连坠楼身亡)
+1. [媒体：评价刀郎音乐不应鸡蛋里挑骨头](https://so.toutiao.com/search?keyword=媒体：评价刀郎音乐不应鸡蛋里挑骨头)
+1. [世界杯揭幕战前一球迷昏迷倒地](https://so.toutiao.com/search?keyword=世界杯揭幕战前一球迷昏迷倒地)
+1. [吴越杯：一场身边共同体的胜利](https://so.toutiao.com/search?keyword=吴越杯：一场身边共同体的胜利)
+1. [揭幕战红牌比进球都多](https://so.toutiao.com/search?keyword=揭幕战红牌比进球都多)
+1. [Labubu现身世界杯开幕式](https://so.toutiao.com/search?keyword=Labubu现身世界杯开幕式)
 1. [金色大力神杯亮相开幕式](https://so.toutiao.com/search?keyword=金色大力神杯亮相开幕式)
 1. [用切豆腐手法来切西瓜](https://so.toutiao.com/search?keyword=用切豆腐手法来切西瓜)
 1. [燃油车卖不动掀起降价潮](https://so.toutiao.com/search?keyword=燃油车卖不动掀起降价潮)
@@ -38,8 +84,6 @@
 1. [孤女遭亲舅烧书阻止高考系谣言](https://so.toutiao.com/search?keyword=孤女遭亲舅烧书阻止高考系谣言)
 1. [外媒称日菲没想到中国大陆出手这么快](https://so.toutiao.com/search?keyword=外媒称日菲没想到中国大陆出手这么快)
 1. [于东来称胖东来员工不值这么多钱](https://so.toutiao.com/search?keyword=于东来称胖东来员工不值这么多钱)
-1. [路虎揽胜极光L跌至17.98万](https://so.toutiao.com/search?keyword=路虎揽胜极光L跌至17.98万)
-1. [香港太古城两女子接连坠楼身亡](https://so.toutiao.com/search?keyword=香港太古城两女子接连坠楼身亡)
 1. [7000多名男性被“同城交友”诱骗](https://so.toutiao.com/search?keyword=7000多名男性被“同城交友”诱骗)
 1. [两大央企被约谈](https://so.toutiao.com/search?keyword=两大央企被约谈)
 1. [谁还在为油车买单](https://so.toutiao.com/search?keyword=谁还在为油车买单)
@@ -117,7 +161,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Jun 12 2026 07:14:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 10:35:29 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUQUESTIONS -->
 
@@ -126,7 +170,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Jun 12 2026 07:14:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 10:35:29 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUVIDEO -->
 
@@ -135,12 +179,61 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Jun 12 2026 07:14:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 10:35:29 GMT+0800 (China Standard Time) -->
 1. [100秒看习近平朝鲜之行](https://s.weibo.com//weibo?q=%23100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9C%9D%E9%B2%9C%E4%B9%8B%E8%A1%8C%23&Refer=new_time)
+1. [日本炸鸡店一锅油反复用66年](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E5%BA%97%E4%B8%80%E9%94%85%E6%B2%B9%E5%8F%8D%E5%A4%8D%E7%94%A866%E5%B9%B4%23&t=31&band_rank=1&Refer=top)
+1. [世界杯开幕式](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=2&Refer=top)
+1. [网警披露一起未履行个人信息保护义务案](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%AD%A6%E6%8A%AB%E9%9C%B2%E4%B8%80%E8%B5%B7%E6%9C%AA%E5%B1%A5%E8%A1%8C%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E4%B9%89%E5%8A%A1%E6%A1%88%23&t=31&band_rank=3&Refer=top)
+1. [中国队首发 labubu马宁](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=4&Refer=top)
+1. [韩国vs捷克](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BDvs%E6%8D%B7%E5%85%8B&t=31&band_rank=5&Refer=top)
+1. [泰国公主帕查拉吉迪雅帕逝世](https://s.weibo.com//weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%85%AC%E4%B8%BB%E5%B8%95%E6%9F%A5%E6%8B%89%E5%90%89%E8%BF%AA%E9%9B%85%E5%B8%95%E9%80%9D%E4%B8%96%23&t=31&band_rank=6&Refer=top)
+1. [世界杯开幕式 吓我一跳](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3&t=31&band_rank=7&Refer=top)
+1. [马頔装修费要溢出来了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%A0%94%E8%A3%85%E4%BF%AE%E8%B4%B9%E8%A6%81%E6%BA%A2%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top)
+1. [谢娜中年圆梦后开巡演背刺了谁](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%AD%E5%B9%B4%E5%9C%86%E6%A2%A6%E5%90%8E%E5%BC%80%E5%B7%A1%E6%BC%94%E8%83%8C%E5%88%BA%E4%BA%86%E8%B0%81%23&t=31&band_rank=9&Refer=top)
+1. [AI短片效果看到起鸡皮疙瘩了](https://s.weibo.com//weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=10&Refer=top)
+1. [能考85分偏考84分最后老师给了83](https://s.weibo.com//weibo?q=%E8%83%BD%E8%80%8385%E5%88%86%E5%81%8F%E8%80%8384%E5%88%86%E6%9C%80%E5%90%8E%E8%80%81%E5%B8%88%E7%BB%99%E4%BA%8683&t=31&band_rank=11&Refer=top)
+1. [刘亦菲父亲是驻外外交官兼大学教授](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%88%B6%E4%BA%B2%E6%98%AF%E9%A9%BB%E5%A4%96%E5%A4%96%E4%BA%A4%E5%AE%98%E5%85%BC%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%23&t=31&band_rank=12&Refer=top)
+1. [女子用鸭肉冒充鹅肉售卖被判二缓二](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E9%B8%AD%E8%82%89%E5%86%92%E5%85%85%E9%B9%85%E8%82%89%E5%94%AE%E5%8D%96%E8%A2%AB%E5%88%A4%E4%BA%8C%E7%BC%93%E4%BA%8C%23&t=31&band_rank=13&Refer=top)
+1. [抓特务](https://s.weibo.com//weibo?q=%E6%8A%93%E7%89%B9%E5%8A%A1&t=31&band_rank=14&Refer=top)
+1. [原来世界杯用球来自中国](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E7%94%A8%E7%90%83%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=15&Refer=top)
+1. [张新成丁禹兮身材被审判](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E4%B8%81%E7%A6%B9%E5%85%AE%E8%BA%AB%E6%9D%90%E8%A2%AB%E5%AE%A1%E5%88%A4%23&t=31&band_rank=16&Refer=top)
+1. [张萌发和黄灿灿聊天记录](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E5%8F%91%E5%92%8C%E9%BB%84%E7%81%BF%E7%81%BF%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=17&Refer=top)
+1. [南非 打人](https://s.weibo.com//weibo?q=%E5%8D%97%E9%9D%9E%20%E6%89%93%E4%BA%BA&t=31&band_rank=18&Refer=top)
+1. [二手燃油车价格大跳水](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E6%89%8B%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=19&Refer=top)
+1. [亲密关系 心理承载力](https://s.weibo.com//weibo?q=%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%20%E5%BF%83%E7%90%86%E6%89%BF%E8%BD%BD%E5%8A%9B&t=31&band_rank=20&Refer=top)
+1. [刘亦菲爷爷奶奶爸爸妈妈都有百科](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E9%83%BD%E6%9C%89%E7%99%BE%E7%A7%91%23&t=31&band_rank=21&Refer=top)
+1. [孕妇长期吃含安定鱼或致胎儿畸形](https://s.weibo.com//weibo?q=%23%E5%AD%95%E5%A6%87%E9%95%BF%E6%9C%9F%E5%90%83%E5%90%AB%E5%AE%89%E5%AE%9A%E9%B1%BC%E6%88%96%E8%87%B4%E8%83%8E%E5%84%BF%E7%95%B8%E5%BD%A2%23&t=31&band_rank=22&Refer=top)
+1. [陈飞宇与热巴恋情风波后首现身](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E4%B8%8E%E7%83%AD%E5%B7%B4%E6%81%8B%E6%83%85%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=23&Refer=top)
+1. [陈伟霆连抛香港两套房套现近3000万](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E8%BF%9E%E6%8A%9B%E9%A6%99%E6%B8%AF%E4%B8%A4%E5%A5%97%E6%88%BF%E5%A5%97%E7%8E%B0%E8%BF%913000%E4%B8%87%23&t=31&band_rank=24&Refer=top)
+1. [钟意长生没入选亚运会](https://s.weibo.com//weibo?q=%E9%92%9F%E6%84%8F%E9%95%BF%E7%94%9F%E6%B2%A1%E5%85%A5%E9%80%89%E4%BA%9A%E8%BF%90%E4%BC%9A&t=31&band_rank=25&Refer=top)
+1. [张元英身材就一个帽子厚度](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%BA%AB%E6%9D%90%E5%B0%B1%E4%B8%80%E4%B8%AA%E5%B8%BD%E5%AD%90%E5%8E%9A%E5%BA%A6%23&t=31&band_rank=26&Refer=top)
+1. [非法安定饵料产销链调查](https://s.weibo.com//weibo?q=%23%E9%9D%9E%E6%B3%95%E5%AE%89%E5%AE%9A%E9%A5%B5%E6%96%99%E4%BA%A7%E9%94%80%E9%93%BE%E8%B0%83%E6%9F%A5%23&t=31&band_rank=27&Refer=top)
+1. [李登科曝Lisa世界杯不靠三公子](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%99%BB%E7%A7%91%E6%9B%9DLisa%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E9%9D%A0%E4%B8%89%E5%85%AC%E5%AD%90%23&t=31&band_rank=28&Refer=top)
+1. [白鹿把唯一的茉莉花给了小婉](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%8A%E5%94%AF%E4%B8%80%E7%9A%84%E8%8C%89%E8%8E%89%E8%8A%B1%E7%BB%99%E4%BA%86%E5%B0%8F%E5%A9%89%23&t=31&band_rank=29&Refer=top)
+1. [美外交官在缅甸死亡](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E5%9C%A8%E7%BC%85%E7%94%B8%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=30&Refer=top)
+1. [迪丽热巴 陈飞宇](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%99%88%E9%A3%9E%E5%AE%87&t=31&band_rank=31&Refer=top)
+1. [女大学生因腹泻等入院6小时后死亡](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0%E8%85%B9%E6%B3%BB%E7%AD%89%E5%85%A5%E9%99%A26%E5%B0%8F%E6%97%B6%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=32&Refer=top)
+1. [马斯克成为人类首位万亿富翁](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E4%B8%BA%E4%BA%BA%E7%B1%BB%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E5%AF%8C%E7%BF%81%23&t=31&band_rank=33&Refer=top)
+1. [小狗被姨姨按嘴](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%8B%97%E8%A2%AB%E5%A7%A8%E5%A7%A8%E6%8C%89%E5%98%B4&t=31&band_rank=34&Refer=top)
+1. [尹锡悦一审被判30年](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A430%E5%B9%B4%23&t=31&band_rank=35&Refer=top)
+1. [世界杯](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=36&Refer=top)
+1. [医院回应女生腹泻入院6小时后死亡](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E8%85%B9%E6%B3%BB%E5%85%A5%E9%99%A26%E5%B0%8F%E6%97%B6%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=37&Refer=top)
+1. [剩25分钟换答题卡考生道歉](https://s.weibo.com//weibo?q=%23%E5%89%A925%E5%88%86%E9%92%9F%E6%8D%A2%E7%AD%94%E9%A2%98%E5%8D%A1%E8%80%83%E7%94%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=38&Refer=top)
+1. [特朗普取消原定今晚打击伊朗行动](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%8E%9F%E5%AE%9A%E4%BB%8A%E6%99%9A%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=39&Refer=top)
+1. [NBA主持人让泰勒斯威夫特滚出去](https://s.weibo.com//weibo?q=%23NBA%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AE%A9%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E6%BB%9A%E5%87%BA%E5%8E%BB%23&t=31&band_rank=40&Refer=top)
+1. [墨西哥2比0南非](https://s.weibo.com//weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%940%E5%8D%97%E9%9D%9E%23&t=31&band_rank=41&Refer=top)
+1. [12岁女孩喊累一年确诊全身器官缺氧](https://s.weibo.com//weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%96%8A%E7%B4%AF%E4%B8%80%E5%B9%B4%E7%A1%AE%E8%AF%8A%E5%85%A8%E8%BA%AB%E5%99%A8%E5%AE%98%E7%BC%BA%E6%B0%A7%23&t=31&band_rank=42&Refer=top)
+1. [韩国男记者世界杯前线遭美女亲吻](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E8%AE%B0%E8%80%85%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%8D%E7%BA%BF%E9%81%AD%E7%BE%8E%E5%A5%B3%E4%BA%B2%E5%90%BB%23&t=31&band_rank=43&Refer=top)
+1. [胖东来回应网传员工工资](https://s.weibo.com//weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%91%98%E5%B7%A5%E5%B7%A5%E8%B5%84%23&t=31&band_rank=44&Refer=top)
+1. [世界杯 红牌比进球多](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E7%BA%A2%E7%89%8C%E6%AF%94%E8%BF%9B%E7%90%83%E5%A4%9A&t=31&band_rank=45&Refer=top)
+1. [姜珮瑶又美又飒](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E7%8F%AE%E7%91%B6%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&t=31&band_rank=46&Refer=top)
+1. [王俊凯将录你好星期六](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B0%86%E5%BD%95%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&t=31&band_rank=47&Refer=top)
+1. [尚界Z7全网首拆](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E7%95%8CZ7%E5%85%A8%E7%BD%91%E9%A6%96%E6%8B%86%23&t=31&band_rank=48&Refer=top)
+1. [曾沛慈把黄灿灿的话听进去了](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E6%8A%8A%E9%BB%84%E7%81%BF%E7%81%BF%E7%9A%84%E8%AF%9D%E5%90%AC%E8%BF%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=49&Refer=top)
+1. [李开复谈AI终局](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%B0%88AI%E7%BB%88%E5%B1%80&t=31&band_rank=50&Refer=top)
 1. [南非 打人](https://s.weibo.com//weibo?q=%E5%8D%97%E9%9D%9E%20%E6%89%93%E4%BA%BA&t=31&band_rank=1&Refer=top)
 1. [世界杯开幕式 吓我一跳](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3&t=31&band_rank=2&Refer=top)
 1. [让文化遗产走进普通人生活](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B5%B0%E8%BF%9B%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top)
-1. [中国队首发 labubu马宁](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=4&Refer=top)
 1. [墨西哥2比0南非](https://s.weibo.com//weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%940%E5%8D%97%E9%9D%9E&t=31&band_rank=5&Refer=top)
 1. [世界杯 红牌比进球多](https://s.weibo.com//weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E7%BA%A2%E7%89%8C%E6%AF%94%E8%BF%9B%E7%90%83%E5%A4%9A&t=31&band_rank=6&Refer=top)
 1. [特朗普称取消打击伊朗行动](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top)

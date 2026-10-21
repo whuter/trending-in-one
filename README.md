@@ -24,12 +24,59 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Wed Oct 21 2026 09:07:43 GMT+0800 (China Standard Time) -->
-1. [台退将：辽宁舰再赴西太是警告日本](https://so.toutiao.com/search?keyword=台退将：辽宁舰再赴西太是警告日本)
-1. [人类历史上最大的投资泡沫或正在破裂](https://so.toutiao.com/search?keyword=人类历史上最大的投资泡沫或正在破裂)
-1. [前三季度中国经济“成绩单”来了](https://so.toutiao.com/search?keyword=前三季度中国经济“成绩单”来了)
-1. [媒体：董明珠办技校先别急着叫好](https://so.toutiao.com/search?keyword=媒体：董明珠办技校先别急着叫好)
+<!-- 最后更新时间 Wed Oct 21 2026 14:46:42 GMT+0800 (China Standard Time) -->
+1. [国际油价昨夜上演大逆转](https://so.toutiao.com/search?keyword=国际油价昨夜上演大逆转)
+1. [国家癌症中心公布发病前五癌症](https://so.toutiao.com/search?keyword=国家癌症中心公布发病前五癌症)
+1. [多项惠民政策加速落地](https://so.toutiao.com/search?keyword=多项惠民政策加速落地)
+1. [国台办正告日方停止在台湾问题上挑衅](https://so.toutiao.com/search?keyword=国台办正告日方停止在台湾问题上挑衅)
+1. [宝马员工争着离职挤崩系统](https://so.toutiao.com/search?keyword=宝马员工争着离职挤崩系统)
 1. [美舰冲闯仙宾礁是要为菲律宾撑腰吗](https://so.toutiao.com/search?keyword=美舰冲闯仙宾礁是要为菲律宾撑腰吗)
+1. [黄仁勋当着德国总理面点出中国优势](https://so.toutiao.com/search?keyword=黄仁勋当着德国总理面点出中国优势)
+1. [有长寿潜质的人身体大多有这5个表现](https://so.toutiao.com/search?keyword=有长寿潜质的人身体大多有这5个表现)
+1. [喝完水总跑厕所和半天不去哪个更伤身](https://so.toutiao.com/search?keyword=喝完水总跑厕所和半天不去哪个更伤身)
+1. [国台办回应IMF将台湾列为中国一省](https://so.toutiao.com/search?keyword=国台办回应IMF将台湾列为中国一省)
+1. [高铁座椅是HPV感染来源？专家辟谣](https://so.toutiao.com/search?keyword=高铁座椅是HPV感染来源？专家辟谣)
+1. [菲总统府：马科斯无意驱逐中国大使](https://so.toutiao.com/search?keyword=菲总统府：马科斯无意驱逐中国大使)
+1. [男子捡到38000元留了道题给失主](https://so.toutiao.com/search?keyword=男子捡到38000元留了道题给失主)
+1. [美日“利剑”军演为何挺进与那国岛](https://so.toutiao.com/search?keyword=美日“利剑”军演为何挺进与那国岛)
+1. [人类历史上最大的投资泡沫或正在破裂](https://so.toutiao.com/search?keyword=人类历史上最大的投资泡沫或正在破裂)
+1. [媒体：董明珠办技校先别急着叫好](https://so.toutiao.com/search?keyword=媒体：董明珠办技校先别急着叫好)
+1. [特朗普施压泽连斯基同俄达成协议](https://so.toutiao.com/search?keyword=特朗普施压泽连斯基同俄达成协议)
+1. [马刺雷霆爆发冲突](https://so.toutiao.com/search?keyword=马刺雷霆爆发冲突)
+1. [手机市场为何突然入冬了](https://so.toutiao.com/search?keyword=手机市场为何突然入冬了)
+1. [女子迟到错过检票失控哀求工作人员](https://so.toutiao.com/search?keyword=女子迟到错过检票失控哀求工作人员)
+1. [人民日报评特斯拉能飞：不必妄自菲薄](https://so.toutiao.com/search?keyword=人民日报评特斯拉能飞：不必妄自菲薄)
+1. [雷霆揭幕战复仇马刺 文班13中1](https://so.toutiao.com/search?keyword=雷霆揭幕战复仇马刺%20文班13中1)
+1. [高速提示应急道可用 司机借用却被罚](https://so.toutiao.com/search?keyword=高速提示应急道可用%20司机借用却被罚)
+1. [工信部：禁止车辆行驶时用零重力座椅](https://so.toutiao.com/search?keyword=工信部：禁止车辆行驶时用零重力座椅)
+1. [数据领域“国家队”是干什么的](https://so.toutiao.com/search?keyword=数据领域“国家队”是干什么的)
+1. [特朗普为何突然对乌克兰翻脸](https://so.toutiao.com/search?keyword=特朗普为何突然对乌克兰翻脸)
+1. [造谣肖战25万元天价票男子被拘](https://so.toutiao.com/search?keyword=造谣肖战25万元天价票男子被拘)
+1. [日军事评论家：日本军国主义风险加剧](https://so.toutiao.com/search?keyword=日军事评论家：日本军国主义风险加剧)
+1. [菲议员连夸中国大使有学识绅士直率](https://so.toutiao.com/search?keyword=菲议员连夸中国大使有学识绅士直率)
+1. [国台办回应约六成台青认为不能依靠美](https://so.toutiao.com/search?keyword=国台办回应约六成台青认为不能依靠美)
+1. [《嫁金钗》毛林林演技如何](https://so.toutiao.com/search?keyword=《嫁金钗》毛林林演技如何)
+1. [证人称蔡天凤前公公曾去买绞肉机](https://so.toutiao.com/search?keyword=证人称蔡天凤前公公曾去买绞肉机)
+1. [A股到底部了吗？卖方观点显分歧](https://so.toutiao.com/search?keyword=A股到底部了吗？卖方观点显分歧)
+1. [中东“榜一大哥”率团来华提飞行汽车](https://so.toutiao.com/search?keyword=中东“榜一大哥”率团来华提飞行汽车)
+1. [比亚迪张卓回应海鸥无仪表设计](https://so.toutiao.com/search?keyword=比亚迪张卓回应海鸥无仪表设计)
+1. [董明珠办技校为何让家长挤破头](https://so.toutiao.com/search?keyword=董明珠办技校为何让家长挤破头)
+1. [文班亚马连续送切特大帽](https://so.toutiao.com/search?keyword=文班亚马连续送切特大帽)
+1. [黄金消费降温了吗](https://so.toutiao.com/search?keyword=黄金消费降温了吗)
+1. [泽连斯基要求欧盟提供700亿欧元资金](https://so.toutiao.com/search?keyword=泽连斯基要求欧盟提供700亿欧元资金)
+1. [欧盟想去越南找矿 冶炼能力跟得上吗](https://so.toutiao.com/search?keyword=欧盟想去越南找矿%20冶炼能力跟得上吗)
+1. [76人揭幕战掀翻卫冕冠军尼克斯](https://so.toutiao.com/search?keyword=76人揭幕战掀翻卫冕冠军尼克斯)
+1. [国台办：两岸经济融合发展是大势所趋](https://so.toutiao.com/search?keyword=国台办：两岸经济融合发展是大势所趋)
+1. [日本拉美国搞军演想走向何方](https://so.toutiao.com/search?keyword=日本拉美国搞军演想走向何方)
+1. [于东来晒乘机照片](https://so.toutiao.com/search?keyword=于东来晒乘机照片)
+1. [马斯克加速建厂扫货光刻机](https://so.toutiao.com/search?keyword=马斯克加速建厂扫货光刻机)
+1. [年轻人打开剧集“旁听”遵义会议](https://so.toutiao.com/search?keyword=年轻人打开剧集“旁听”遵义会议)
+1. [国台办回应民进党当局拒张凌赫赴台](https://so.toutiao.com/search?keyword=国台办回应民进党当局拒张凌赫赴台)
+1. [内蒙古黄河“几字弯”锁沙逐绿](https://so.toutiao.com/search?keyword=内蒙古黄河“几字弯”锁沙逐绿)
+1. [谷神星一号海射型遥八运载火箭发射](https://so.toutiao.com/search?keyword=谷神星一号海射型遥八运载火箭发射)
+1. [国台办：将举办台湾光复纪念活动](https://so.toutiao.com/search?keyword=国台办：将举办台湾光复纪念活动)
+1. [台退将：辽宁舰再赴西太是警告日本](https://so.toutiao.com/search?keyword=台退将：辽宁舰再赴西太是警告日本)
+1. [前三季度中国经济“成绩单”来了](https://so.toutiao.com/search?keyword=前三季度中国经济“成绩单”来了)
 1. [法国将部署军队反恐力量应对示威活动](https://so.toutiao.com/search?keyword=法国将部署军队反恐力量应对示威活动)
 1. [为什么人们不爱接陌生电话了](https://so.toutiao.com/search?keyword=为什么人们不爱接陌生电话了)
 1. [血糖高身体会抛出7个信号](https://so.toutiao.com/search?keyword=血糖高身体会抛出7个信号)
@@ -39,7 +86,6 @@
 1. [观众对打小三斗渣男剧情审美疲劳了吗](https://so.toutiao.com/search?keyword=观众对打小三斗渣男剧情审美疲劳了吗)
 1. [父亲盼刘恺威女友春节来家过年](https://so.toutiao.com/search?keyword=父亲盼刘恺威女友春节来家过年)
 1. [特朗普：中方在乌问题上立场很公允](https://so.toutiao.com/search?keyword=特朗普：中方在乌问题上立场很公允)
-1. [工信部：禁止车辆行驶时用零重力座椅](https://so.toutiao.com/search?keyword=工信部：禁止车辆行驶时用零重力座椅)
 1. [超强台风蔷琵很大可能紧擦浙江](https://so.toutiao.com/search?keyword=超强台风蔷琵很大可能紧擦浙江)
 1. [退休时间是按生日当天还是当月算](https://so.toutiao.com/search?keyword=退休时间是按生日当天还是当月算)
 1. [末节23-0 绿军揭幕战惨遭活塞逆转](https://so.toutiao.com/search?keyword=末节23-0%20绿军揭幕战惨遭活塞逆转)
@@ -48,8 +94,6 @@
 1. [美以伊战火重燃概率上升](https://so.toutiao.com/search?keyword=美以伊战火重燃概率上升)
 1. [凯尔特人新援乔治7记三分球空砍38分](https://so.toutiao.com/search?keyword=凯尔特人新援乔治7记三分球空砍38分)
 1. [城堡投资创始人：AI几乎肯定有泡沫](https://so.toutiao.com/search?keyword=城堡投资创始人：AI几乎肯定有泡沫)
-1. [数据领域“国家队”是干什么的](https://so.toutiao.com/search?keyword=数据领域“国家队”是干什么的)
-1. [中东“榜一大哥”率团来华提飞行汽车](https://so.toutiao.com/search?keyword=中东“榜一大哥”率团来华提飞行汽车)
 1. [男子被拐22年后凭碎片记忆寻回至亲](https://so.toutiao.com/search?keyword=男子被拐22年后凭碎片记忆寻回至亲)
 1. [国产剧恶女叙事为何越热越单薄](https://so.toutiao.com/search?keyword=国产剧恶女叙事为何越热越单薄)
 1. [理想汽车发布电池保障计划](https://so.toutiao.com/search?keyword=理想汽车发布电池保障计划)
@@ -69,7 +113,6 @@
 1. [马斯克警告人类将被AI“一击拿下”](https://so.toutiao.com/search?keyword=马斯克警告人类将被AI“一击拿下”)
 1. [苹果扩大与美国本土供应商的合作](https://so.toutiao.com/search?keyword=苹果扩大与美国本土供应商的合作)
 1. [对冲基金大幅撤退 纳指为何迟迟不崩](https://so.toutiao.com/search?keyword=对冲基金大幅撤退%20纳指为何迟迟不崩)
-1. [女子迟到错过检票失控哀求工作人员](https://so.toutiao.com/search?keyword=女子迟到错过检票失控哀求工作人员)
 1. [算力为何成了兵家必争之地](https://so.toutiao.com/search?keyword=算力为何成了兵家必争之地)
 1. [为何说中长期看资本市场具备光明前景](https://so.toutiao.com/search?keyword=为何说中长期看资本市场具备光明前景)
 1. [日本万人大集会高呼高市马上下台](https://so.toutiao.com/search?keyword=日本万人大集会高呼高市马上下台)
@@ -137,7 +180,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Oct 21 2026 09:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 21 2026 14:46:42 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUQUESTIONS -->
 
@@ -146,7 +189,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Wed Oct 21 2026 09:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 21 2026 14:46:42 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUVIDEO -->
 
@@ -155,7 +198,58 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Wed Oct 21 2026 09:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 21 2026 14:46:42 GMT+0800 (China Standard Time) -->
+1. [习近平说长征](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%B4%E9%95%BF%E5%BE%81%23&Refer=new_time)
+1. [台独给周杰伦扣帽子国台办回应](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E7%8B%AC%E7%BB%99%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%A3%E5%B8%BD%E5%AD%90%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top)
+1. [电视剧三平台破万的演员只有7位](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%E7%9A%84%E6%BC%94%E5%91%98%E5%8F%AA%E6%9C%897%E4%BD%8D%23&t=31&band_rank=2&Refer=top)
+1. [一图读懂前三季度国民经济稳新优好](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%A8%B3%E6%96%B0%E4%BC%98%E5%A5%BD%23&t=31&band_rank=3&Refer=top)
+1. [问界起火](https://s.weibo.com//weibo?q=%E9%97%AE%E7%95%8C%E8%B5%B7%E7%81%AB&t=31&band_rank=4&Refer=top)
+1. [魏娆 配阴婚](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%A8%86%20%E9%85%8D%E9%98%B4%E5%A9%9A&t=31&band_rank=5&Refer=top)
+1. [拟出台的中国AI禁令震动全球](https://s.weibo.com//weibo?q=%23%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83%23&t=31&band_rank=6&Refer=top)
+1. [全球手机销量暴跌](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=7&Refer=top)
+1. [魏娆养母 伥鬼](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%A8%86%E5%85%BB%E6%AF%8D%20%E4%BC%A5%E9%AC%BC&t=31&band_rank=8&Refer=top)
+1. [目前我国只批准两款L3车型](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E6%88%91%E5%9B%BD%E5%8F%AA%E6%89%B9%E5%87%86%E4%B8%A4%E6%AC%BEL3%E8%BD%A6%E5%9E%8B%23&t=31&band_rank=9&Refer=top)
+1. [曝问界海外车型弃华为智驾](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E9%97%AE%E7%95%8C%E6%B5%B7%E5%A4%96%E8%BD%A6%E5%9E%8B%E5%BC%83%E5%8D%8E%E4%B8%BA%E6%99%BA%E9%A9%BE%23&t=31&band_rank=10&Refer=top)
+1. [李晟说高梓淇恋情瞒得太好了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%9F%E8%AF%B4%E9%AB%98%E6%A2%93%E6%B7%87%E6%81%8B%E6%83%85%E7%9E%92%E5%BE%97%E5%A4%AA%E5%A5%BD%E4%BA%86%23&t=31&band_rank=11&Refer=top)
+1. [毛不易在朋友婚礼上的致辞](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%87%B4%E8%BE%9E%23&t=31&band_rank=12&Refer=top)
+1. [曝90花不满芭莎红毯顺序](https://s.weibo.com//weibo?q=%E6%9B%9D90%E8%8A%B1%E4%B8%8D%E6%BB%A1%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&t=31&band_rank=13&Refer=top)
+1. [曝艺人自费高定](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%23&t=31&band_rank=14&Refer=top)
+1. [女子迟到错过检票失控哀求工作人员](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9F%E5%88%B0%E9%94%99%E8%BF%87%E6%A3%80%E7%A5%A8%E5%A4%B1%E6%8E%A7%E5%93%80%E6%B1%82%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%23&t=31&band_rank=15&Refer=top)
+1. [杨幂刘诗诗都当过开毯嘉宾](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E9%83%BD%E5%BD%93%E8%BF%87%E5%BC%80%E6%AF%AF%E5%98%89%E5%AE%BE%23&t=31&band_rank=16&Refer=top)
+1. [陈瑜林子濠结婚](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%91%9C%E6%9E%97%E5%AD%90%E6%BF%A0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=17&Refer=top)
+1. [国家癌症中心公布发病前五癌症](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87%23&t=31&band_rank=18&Refer=top)
+1. [樊振东5次就隐私问题公开表态](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C5%E6%AC%A1%E5%B0%B1%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E5%85%AC%E5%BC%80%E8%A1%A8%E6%80%81%23&t=31&band_rank=19&Refer=top)
+1. [甲状腺癌为何越来越多](https://s.weibo.com//weibo?q=%23%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=20&Refer=top)
+1. [第一次见豆包发脾气](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%B1%86%E5%8C%85%E5%8F%91%E8%84%BE%E6%B0%94&t=31&band_rank=21&Refer=top)
+1. [李嘉格带男友上结婚综艺](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%98%89%E6%A0%BC%E5%B8%A6%E7%94%B7%E5%8F%8B%E4%B8%8A%E7%BB%93%E5%A9%9A%E7%BB%BC%E8%89%BA%23&t=31&band_rank=22&Refer=top)
+1. [刘恺威曾谈对杨幂的第一印象](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%81%BA%E5%A8%81%E6%9B%BE%E8%B0%88%E5%AF%B9%E6%9D%A8%E5%B9%82%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=23&Refer=top)
+1. [高梓淇回应和前妻关系](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A2%93%E6%B7%87%E5%9B%9E%E5%BA%94%E5%92%8C%E5%89%8D%E5%A6%BB%E5%85%B3%E7%B3%BB%23&t=31&band_rank=24&Refer=top)
+1. [魏娆终于跟母亲相认了](https://s.weibo.com//weibo?q=%23%E9%AD%8F%E5%A8%86%E7%BB%88%E4%BA%8E%E8%B7%9F%E6%AF%8D%E4%BA%B2%E7%9B%B8%E8%AE%A4%E4%BA%86%23&t=31&band_rank=25&Refer=top)
+1. [马斯克建议别为退休攒钱](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BB%BA%E8%AE%AE%E5%88%AB%E4%B8%BA%E9%80%80%E4%BC%91%E6%94%92%E9%92%B1%23&t=31&band_rank=26&Refer=top)
+1. [心理学专家互撕 网友释然](https://s.weibo.com//weibo?q=%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%93%E5%AE%B6%E4%BA%92%E6%92%95%20%E7%BD%91%E5%8F%8B%E9%87%8A%E7%84%B6&t=31&band_rank=27&Refer=top)
+1. [曝买了高定可以先借样衣穿](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E4%B9%B0%E4%BA%86%E9%AB%98%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%85%88%E5%80%9F%E6%A0%B7%E8%A1%A3%E7%A9%BF%23&t=31&band_rank=28&Refer=top)
+1. [雷霆马刺大冲突](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A7%E5%86%B2%E7%AA%81%23&t=31&band_rank=29&Refer=top)
+1. [女子节食减肥半年瘦9公斤查出骨肌双亏](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%82%E9%A3%9F%E5%87%8F%E8%82%A5%E5%8D%8A%E5%B9%B4%E7%98%A69%E5%85%AC%E6%96%A4%E6%9F%A5%E5%87%BA%E9%AA%A8%E8%82%8C%E5%8F%8C%E4%BA%8F%23&t=31&band_rank=30&Refer=top)
+1. [林依轮曾说陈瑜是亲女儿](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E6%9B%BE%E8%AF%B4%E9%99%88%E7%91%9C%E6%98%AF%E4%BA%B2%E5%A5%B3%E5%84%BF%23&t=31&band_rank=31&Refer=top)
+1. [律师谈肖战二开不退票](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E8%82%96%E6%88%98%E4%BA%8C%E5%BC%80%E4%B8%8D%E9%80%80%E7%A5%A8%23&t=31&band_rank=32&Refer=top)
+1. [iPhoneDuo开箱](https://s.weibo.com//weibo?q=%23iPhoneDuo%E5%BC%80%E7%AE%B1%23&t=31&band_rank=33&Refer=top)
+1. [武志红李雪分手多年恩怨](https://s.weibo.com//weibo?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E5%88%86%E6%89%8B%E5%A4%9A%E5%B9%B4%E6%81%A9%E6%80%A8&t=31&band_rank=34&Refer=top)
+1. [冯薪朵钟正婚姻观分歧](https://s.weibo.com//weibo?q=%E5%86%AF%E8%96%AA%E6%9C%B5%E9%92%9F%E6%AD%A3%E5%A9%9A%E5%A7%BB%E8%A7%82%E5%88%86%E6%AD%A7&t=31&band_rank=35&Refer=top)
+1. [李诞谈保险是健康生活的托底](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%AF%9E%E8%B0%88%E4%BF%9D%E9%99%A9%E6%98%AF%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E7%9A%84%E6%89%98%E5%BA%95%23&t=31&band_rank=36&Refer=top)
+1. [芭莎盛典造型](https://s.weibo.com//weibo?q=%23%E8%8A%AD%E8%8E%8E%E7%9B%9B%E5%85%B8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=37&Refer=top)
+1. [iPhoneDuo开箱暴露适配问题](https://s.weibo.com//weibo?q=%23iPhoneDuo%E5%BC%80%E7%AE%B1%E6%9A%B4%E9%9C%B2%E9%80%82%E9%85%8D%E9%97%AE%E9%A2%98%23&t=31&band_rank=38&Refer=top)
+1. [贺峻霖透露硕士研究方向](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E9%80%8F%E9%9C%B2%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%23&t=31&band_rank=39&Refer=top)
+1. [A股投资者回报明显改善](https://s.weibo.com//weibo?q=%23A%E8%82%A1%E6%8A%95%E8%B5%84%E8%80%85%E5%9B%9E%E6%8A%A5%E6%98%8E%E6%98%BE%E6%94%B9%E5%96%84%23&t=31&band_rank=40&Refer=top)
+1. [疑似崔秀彬照片事件当事人回应](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BC%E5%B4%94%E7%A7%80%E5%BD%AC%E7%85%A7%E7%89%87%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=41&Refer=top)
+1. [肖战刘铮亮跟前女友借钱](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E8%B7%9F%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%9F%E9%92%B1%23&t=31&band_rank=42&Refer=top)
+1. [以前的房东和现在的房东](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%89%8D%E7%9A%84%E6%88%BF%E4%B8%9C%E5%92%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%BF%E4%B8%9C%23&t=31&band_rank=43&Refer=top)
+1. [突然发现已经无法停止使用AI了](https://s.weibo.com//weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E5%B7%B2%E7%BB%8F%E6%97%A0%E6%B3%95%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8AI%E4%BA%86%23&t=31&band_rank=44&Refer=top)
+1. [国台办回应民进党当局拒绝张凌赫赴台](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E6%8B%92%E7%BB%9D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0%23&t=31&band_rank=45&Refer=top)
+1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=46&Refer=top)
+1. [四川26岁女孩不吸烟确诊肺癌晚期](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%90%B8%E7%83%9F%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=47&Refer=top)
+1. [13岁男孩被打重伤班主任发声](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%89%93%E9%87%8D%E4%BC%A4%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=48&Refer=top)
+1. [时尚博主回复自费高定艺人粉丝](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%B0%9A%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%A4%8D%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%E8%89%BA%E4%BA%BA%E7%B2%89%E4%B8%9D%23&t=31&band_rank=49&Refer=top)
+1. [iPhoneDuo包装盒没塑封膜](https://s.weibo.com//weibo?q=%23iPhoneDuo%E5%8C%85%E8%A3%85%E7%9B%92%E6%B2%A1%E5%A1%91%E5%B0%81%E8%86%9C%23&t=31&band_rank=50&Refer=top)
 1. [在新的长征路上继续奋勇前进](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%96%B0%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E7%BB%A7%E7%BB%AD%E5%A5%8B%E5%8B%87%E5%89%8D%E8%BF%9B%23&Refer=new_time)
 1. [国家癌症中心公布发病前五癌症](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87%23&t=31&band_rank=1&Refer=top)
 1. [男子捡到38000元留了道题给失主](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B038000%E5%85%83%E7%95%99%E4%BA%86%E9%81%93%E9%A2%98%E7%BB%99%E5%A4%B1%E4%B8%BB%23&t=31&band_rank=2&Refer=top)

@@ -24,12 +24,61 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Thu Nov 19 2026 10:17:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 18:55:07 GMT+0800 (China Standard Time) -->
+1. [习近平主持中俄美元首会晤](https://so.toutiao.com/search?keyword=习近平主持中俄美元首会晤)
+1. [中俄美元首和平宣言](https://so.toutiao.com/search?keyword=中俄美元首和平宣言)
+1. [期待中国方案引领亚太合作](https://so.toutiao.com/search?keyword=期待中国方案引领亚太合作)
+1. [特朗普说美国不支持“台独”](https://so.toutiao.com/search?keyword=特朗普说美国不支持“台独”)
+1. [中方回应高市早苗礼宾安排](https://so.toutiao.com/search?keyword=中方回应高市早苗礼宾安排)
+1. [深圳市民在街头偶遇多国政要](https://so.toutiao.com/search?keyword=深圳市民在街头偶遇多国政要)
+1. [APEC红围巾来自广东顺德](https://so.toutiao.com/search?keyword=APEC红围巾来自广东顺德)
+1. [特朗普：请中国继续保持强大](https://so.toutiao.com/search?keyword=特朗普：请中国继续保持强大)
+1. [APEC礼物别出心裁](https://so.toutiao.com/search?keyword=APEC礼物别出心裁)
+1. [APEC宴会桌布置设计感拉满](https://so.toutiao.com/search?keyword=APEC宴会桌布置设计感拉满)
+1. [官方辟谣要求基金公司上报AI敞口](https://so.toutiao.com/search?keyword=官方辟谣要求基金公司上报AI敞口)
+1. [中方回应中日领导人APEC是否会晤](https://so.toutiao.com/search?keyword=中方回应中日领导人APEC是否会晤)
+1. [叶连平将成为“大体老师”](https://so.toutiao.com/search?keyword=叶连平将成为“大体老师”)
+1. [特斯拉将继续提高在华产量](https://so.toutiao.com/search?keyword=特斯拉将继续提高在华产量)
+1. [特朗普和普京会晤时开了个玩笑](https://so.toutiao.com/search?keyword=特朗普和普京会晤时开了个玩笑)
+1. [小学试卷出现93年张奶奶97年张大爷](https://so.toutiao.com/search?keyword=小学试卷出现93年张奶奶97年张大爷)
+1. [普京用中文对与会者说谢谢](https://so.toutiao.com/search?keyword=普京用中文对与会者说谢谢)
+1. [普京乘电梯时主动礼让文莱苏丹](https://so.toutiao.com/search?keyword=普京乘电梯时主动礼让文莱苏丹)
+1. [流浪猫被收养从2.7斤长到12斤](https://so.toutiao.com/search?keyword=流浪猫被收养从2.7斤长到12斤)
+1. [女子逛遍许昌胖东来全部门店](https://so.toutiao.com/search?keyword=女子逛遍许昌胖东来全部门店)
+1. [姚安娜摆摊卖瓷器被游客砍价](https://so.toutiao.com/search?keyword=姚安娜摆摊卖瓷器被游客砍价)
+1. [特朗普感激中国](https://so.toutiao.com/search?keyword=特朗普感激中国)
+1. [A股成交额创16个月地量](https://so.toutiao.com/search?keyword=A股成交额创16个月地量)
+1. [睡前有5种表现要警惕脑梗](https://so.toutiao.com/search?keyword=睡前有5种表现要警惕脑梗)
+1. [APEC围巾图案取自“中国年”会标](https://so.toutiao.com/search?keyword=APEC围巾图案取自“中国年”会标)
+1. [尾盘大资金进场爆量抄底](https://so.toutiao.com/search?keyword=尾盘大资金进场爆量抄底)
+1. [专家建议金饰跌破1000元再买](https://so.toutiao.com/search?keyword=专家建议金饰跌破1000元再买)
+1. [普京：难怪您会选这里举办APEC](https://so.toutiao.com/search?keyword=普京：难怪您会选这里举办APEC)
+1. [沪指罕见六连阴 现在该跑还是熬](https://so.toutiao.com/search?keyword=沪指罕见六连阴%20现在该跑还是熬)
+1. [GTA6为何刷屏](https://so.toutiao.com/search?keyword=GTA6为何刷屏)
+1. [马斯克：中国很酷](https://so.toutiao.com/search?keyword=马斯克：中国很酷)
+1. [超市羽绒服凭什么能卖这么实惠](https://so.toutiao.com/search?keyword=超市羽绒服凭什么能卖这么实惠)
+1. [金饰克价直降500多元](https://so.toutiao.com/search?keyword=金饰克价直降500多元)
+1. [APEC领导人互相整理围巾](https://so.toutiao.com/search?keyword=APEC领导人互相整理围巾)
+1. [液氧罐头乐队主唱张宇去世](https://so.toutiao.com/search?keyword=液氧罐头乐队主唱张宇去世)
+1. [柯文哲怒敲“电子手环”喊话小草](https://so.toutiao.com/search?keyword=柯文哲怒敲“电子手环”喊话小草)
+1. [广东荔枝冰酒亮相APEC晚宴](https://so.toutiao.com/search?keyword=广东荔枝冰酒亮相APEC晚宴)
+1. [乌军炸断克里米亚大桥有何影响](https://so.toutiao.com/search?keyword=乌军炸断克里米亚大桥有何影响)
+1. [市场底部接近了吗](https://so.toutiao.com/search?keyword=市场底部接近了吗)
+1. [特朗普沉浸式欣赏深圳的夜](https://so.toutiao.com/search?keyword=特朗普沉浸式欣赏深圳的夜)
+1. [男子饭后胸闷查出三根冠状动脉堵塞](https://so.toutiao.com/search?keyword=男子饭后胸闷查出三根冠状动脉堵塞)
+1. [伊能静说《后会友期》是人生必修课](https://so.toutiao.com/search?keyword=伊能静说《后会友期》是人生必修课)
+1. [普京随行副官携带核公文包](https://so.toutiao.com/search?keyword=普京随行副官携带核公文包)
+1. [克里米亚大桥再次遭袭 交通中断](https://so.toutiao.com/search?keyword=克里米亚大桥再次遭袭%20交通中断)
+1. [“来了就是深圳人”赢得由衷认同](https://so.toutiao.com/search?keyword=“来了就是深圳人”赢得由衷认同)
+1. [中国军人在空军一号轰鸣声前岿然不动](https://so.toutiao.com/search?keyword=中国军人在空军一号轰鸣声前岿然不动)
+1. [如何看待俄军用锆石导弹炸乌小城](https://so.toutiao.com/search?keyword=如何看待俄军用锆石导弹炸乌小城)
+1. [手机号二次放号有何风险](https://so.toutiao.com/search?keyword=手机号二次放号有何风险)
+1. [APEC的中国轨迹](https://so.toutiao.com/search?keyword=APEC的中国轨迹)
+1. [公路结冰警车开道护送200余名游客](https://so.toutiao.com/search?keyword=公路结冰警车开道护送200余名游客)
 1. [习近平主持APEC领导人非正式会议](https://so.toutiao.com/search?keyword=习近平主持APEC领导人非正式会议)
 1. [APEC世纪晚宴菜单曝光](https://so.toutiao.com/search?keyword=APEC世纪晚宴菜单曝光)
 1. [APEC十二年间有哪些新变化？](https://so.toutiao.com/search?keyword=APEC十二年间有哪些新变化？)
 1. [APEC来宾体验中国科技产品](https://so.toutiao.com/search?keyword=APEC来宾体验中国科技产品)
-1. [特朗普沉浸式欣赏深圳的夜](https://so.toutiao.com/search?keyword=特朗普沉浸式欣赏深圳的夜)
 1. [加总理：中国在清洁能源领域全球领先](https://so.toutiao.com/search?keyword=加总理：中国在清洁能源领域全球领先)
 1. [深圳的夜景极致震撼](https://so.toutiao.com/search?keyword=深圳的夜景极致震撼)
 1. [深圳机场停满各国领导人专机](https://so.toutiao.com/search?keyword=深圳机场停满各国领导人专机)
@@ -39,13 +88,11 @@
 1. [白宫发布特朗普访华视频](https://so.toutiao.com/search?keyword=白宫发布特朗普访华视频)
 1. [美国科技股市盈率暴跌42%](https://so.toutiao.com/search?keyword=美国科技股市盈率暴跌42%)
 1. [外国政要来深圳都打卡了哪](https://so.toutiao.com/search?keyword=外国政要来深圳都打卡了哪)
-1. [中国军人在空军一号轰鸣声前岿然不动](https://so.toutiao.com/search?keyword=中国军人在空军一号轰鸣声前岿然不动)
 1. [APEC欢迎宴会有哪些高科技](https://so.toutiao.com/search?keyword=APEC欢迎宴会有哪些高科技)
 1. [深圳刷屏海外社交媒体](https://so.toutiao.com/search?keyword=深圳刷屏海外社交媒体)
 1. [中俄美元首同框](https://so.toutiao.com/search?keyword=中俄美元首同框)
 1. [大叔想偷偷跟樊振东合影被拉走](https://so.toutiao.com/search?keyword=大叔想偷偷跟樊振东合影被拉走)
 1. [外国游客：中国制造印象彻底改变](https://so.toutiao.com/search?keyword=外国游客：中国制造印象彻底改变)
-1. [普京：难怪您会选这里举办APEC](https://so.toutiao.com/search?keyword=普京：难怪您会选这里举办APEC)
 1. [陆毅女儿贝儿官宣出道](https://so.toutiao.com/search?keyword=陆毅女儿贝儿官宣出道)
 1. [公安机关抓获拒执嫌疑人5795人](https://so.toutiao.com/search?keyword=公安机关抓获拒执嫌疑人5795人)
 1. [马斯克母亲也来深圳了？本人回应](https://so.toutiao.com/search?keyword=马斯克母亲也来深圳了？本人回应)
@@ -133,7 +180,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Nov 19 2026 10:17:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 18:55:07 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUQUESTIONS -->
 
@@ -142,7 +189,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Thu Nov 19 2026 10:17:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 18:55:07 GMT+0800 (China Standard Time) -->
 
 <!-- END ZHIHUVIDEO -->
 
@@ -151,7 +198,58 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Thu Nov 19 2026 10:17:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 18:55:07 GMT+0800 (China Standard Time) -->
+1. [中俄美元首深圳会晤](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%23&Refer=new_time)
+1. [中俄美元首一张圆桌三个座位](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%80%E5%BC%A0%E5%9C%86%E6%A1%8C%E4%B8%89%E4%B8%AA%E5%BA%A7%E4%BD%8D%23&t=31&band_rank=1&Refer=top)
+1. [中方回应高市早苗礼宾安排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A4%BC%E5%AE%BE%E5%AE%89%E6%8E%92%23&t=31&band_rank=2&Refer=top)
+1. [APEC强劲发力激活亚太经贸新动能](https://s.weibo.com//weibo?q=%23APEC%E5%BC%BA%E5%8A%B2%E5%8F%91%E5%8A%9B%E6%BF%80%E6%B4%BB%E4%BA%9A%E5%A4%AA%E7%BB%8F%E8%B4%B8%E6%96%B0%E5%8A%A8%E8%83%BD%23&t=31&band_rank=3&Refer=top)
+1. [中俄美元首会晤高清大图](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%23&t=31&band_rank=4&Refer=top)
+1. [APEC晚宴用荔枝冰酒销量暴增900倍](https://s.weibo.com//weibo?q=%23APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D%23&t=31&band_rank=5&Refer=top)
+1. [竞燃之夜内场](https://s.weibo.com//weibo?q=%23%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23&t=31&band_rank=6&Refer=top)
+1. [APEC记者们已经累瘫了](https://s.weibo.com//weibo?q=%23APEC%E8%AE%B0%E8%80%85%E4%BB%AC%E5%B7%B2%E7%BB%8F%E7%B4%AF%E7%98%AB%E4%BA%86%23&t=31&band_rank=7&Refer=top)
+1. [中俄美三国元首会晤](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=8&Refer=top)
+1. [王子璇清醒了文吉儿慌了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%B8%85%E9%86%92%E4%BA%86%E6%96%87%E5%90%89%E5%84%BF%E6%85%8C%E4%BA%86%23&t=31&band_rank=9&Refer=top)
+1. [许飞曾说仓央情歌情绪太重](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E6%9B%BE%E8%AF%B4%E4%BB%93%E5%A4%AE%E6%83%85%E6%AD%8C%E6%83%85%E7%BB%AA%E5%A4%AA%E9%87%8D%23&t=31&band_rank=10&Refer=top)
+1. [胖东来撤走后降到四百万依然没有人接盘](https://s.weibo.com//weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%92%A4%E8%B5%B0%E5%90%8E%E9%99%8D%E5%88%B0%E5%9B%9B%E7%99%BE%E4%B8%87%E4%BE%9D%E7%84%B6%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%8E%A5%E7%9B%98%23&t=31&band_rank=11&Refer=top)
+1. [竞燃之夜座位图](https://s.weibo.com//weibo?q=%23%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%9B%BE%23&t=31&band_rank=12&Refer=top)
+1. [特朗普总统说请中国继续保持强大](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AF%B4%E8%AF%B7%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E5%BC%BA%E5%A4%A7%23&t=31&band_rank=13&Refer=top)
+1. [王子璇把马天宇张萌梭哈了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%8A%8A%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C%E6%A2%AD%E5%93%88%E4%BA%86%23&t=31&band_rank=14&Refer=top)
+1. [陈晓楠评价文吉儿](https://s.weibo.com//weibo?q=%E9%99%88%E6%99%93%E6%A5%A0%E8%AF%84%E4%BB%B7%E6%96%87%E5%90%89%E5%84%BF&t=31&band_rank=15&Refer=top)
+1. [白小纯在看什么](https://s.weibo.com//weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%9C%A8%E7%9C%8B%E4%BB%80%E4%B9%88&t=31&band_rank=16&Refer=top)
+1. [蒋欣要拍后会无期了](https://s.weibo.com//weibo?q=%23%E8%92%8B%E6%AC%A3%E8%A6%81%E6%8B%8D%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F%E4%BA%86%23&t=31&band_rank=17&Refer=top)
+1. [杨超越董思成亲了4小时的吻戏](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E4%BA%B2%E4%BA%864%E5%B0%8F%E6%97%B6%E7%9A%84%E5%90%BB%E6%88%8F%23&t=31&band_rank=18&Refer=top)
+1. [白小纯 青稚](https://s.weibo.com//weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%20%E9%9D%92%E7%A8%9A&t=31&band_rank=19&Refer=top)
+1. [华为超薄表](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%B6%85%E8%96%84%E8%A1%A8%23&t=31&band_rank=20&Refer=top)
+1. [孙俪家的芒果拿到了大后果](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E5%AE%B6%E7%9A%84%E8%8A%92%E6%9E%9C%E6%8B%BF%E5%88%B0%E4%BA%86%E5%A4%A7%E5%90%8E%E6%9E%9C%23&t=31&band_rank=21&Refer=top)
+1. [特朗普说深圳真的是个非常棒的城市](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%B7%B1%E5%9C%B3%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%A3%92%E7%9A%84%E5%9F%8E%E5%B8%82%23&t=31&band_rank=22&Refer=top)
+1. [为什么痛车越来越多了](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%97%9B%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86&t=31&band_rank=23&Refer=top)
+1. [白小纯青稚竞燃之夜介绍词](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E4%BB%8B%E7%BB%8D%E8%AF%8D%23&t=31&band_rank=24&Refer=top)
+1. [梁龙悼念张宇](https://s.weibo.com//weibo?q=%23%E6%A2%81%E9%BE%99%E6%82%BC%E5%BF%B5%E5%BC%A0%E5%AE%87%23&t=31&band_rank=25&Refer=top)
+1. [中美元首深圳会晤](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%23&t=31&band_rank=26&Refer=top)
+1. [白小纯青稚oo3同框](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9Aoo3%E5%90%8C%E6%A1%86%23&t=31&band_rank=27&Refer=top)
+1. [巨型梦幻LADYDIOR手袋点亮三里屯](https://s.weibo.com//weibo?q=%23%E5%B7%A8%E5%9E%8B%E6%A2%A6%E5%B9%BBLADYDIOR%E6%89%8B%E8%A2%8B%E7%82%B9%E4%BA%AE%E4%B8%89%E9%87%8C%E5%B1%AF%23&t=31&band_rank=28&Refer=top)
+1. [婆婆羡慕孙子被抱下一秒被儿媳抱起](https://s.weibo.com//weibo?q=%23%E5%A9%86%E5%A9%86%E7%BE%A1%E6%85%95%E5%AD%99%E5%AD%90%E8%A2%AB%E6%8A%B1%E4%B8%8B%E4%B8%80%E7%A7%92%E8%A2%AB%E5%84%BF%E5%AA%B3%E6%8A%B1%E8%B5%B7%23&t=31&band_rank=29&Refer=top)
+1. [慌啥子嘛被4岁男孩唱明白了](https://s.weibo.com//weibo?q=%23%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E8%A2%AB4%E5%B2%81%E7%94%B7%E5%AD%A9%E5%94%B1%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=30&Refer=top)
+1. [中俄美会晤为何选在麒麟山庄](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%BC%9A%E6%99%A4%E4%B8%BA%E4%BD%95%E9%80%89%E5%9C%A8%E9%BA%92%E9%BA%9F%E5%B1%B1%E5%BA%84%23&t=31&band_rank=31&Refer=top)
+1. [普京特朗普先后发言](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E5%90%8E%E5%8F%91%E8%A8%80%23&t=31&band_rank=32&Refer=top)
+1. [T1官宣Doran离队](https://s.weibo.com//weibo?q=T1%E5%AE%98%E5%AE%A3Doran%E7%A6%BB%E9%98%9F&t=31&band_rank=33&Refer=top)
+1. [APEC领导人休息室温馨画面](https://s.weibo.com//weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23&t=31&band_rank=34&Refer=top)
+1. [微博竞燃之夜](https://s.weibo.com//weibo?q=%E5%BE%AE%E5%8D%9A%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C&t=31&band_rank=35&Refer=top)
+1. [特朗普说美国不支持台独](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%BE%8E%E5%9B%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=36&Refer=top)
+1. [Dior点灯活动](https://s.weibo.com//weibo?q=%23Dior%E7%82%B9%E7%81%AF%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=37&Refer=top)
+1. [李稻葵揭秘经济发展三个趋势](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%A8%BB%E8%91%B5%E6%8F%AD%E7%A7%98%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E4%B8%89%E4%B8%AA%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=38&Refer=top)
+1. [马斯克小儿子说中国是玩具天堂](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%8E%A9%E5%85%B7%E5%A4%A9%E5%A0%82%23&t=31&band_rank=39&Refer=top)
+1. [许飞厉娜事情有了新的进展](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E4%BA%8B%E6%83%85%E6%9C%89%E4%BA%86%E6%96%B0%E7%9A%84%E8%BF%9B%E5%B1%95%23&t=31&band_rank=40&Refer=top)
+1. [马天宇哭到张萌后悔](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%93%AD%E5%88%B0%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%23&t=31&band_rank=41&Refer=top)
+1. [对刘宇宁的身高有了具象化表达](https://s.weibo.com//weibo?q=%E5%AF%B9%E5%88%98%E5%AE%87%E5%AE%81%E7%9A%84%E8%BA%AB%E9%AB%98%E6%9C%89%E4%BA%86%E5%85%B7%E8%B1%A1%E5%8C%96%E8%A1%A8%E8%BE%BE&t=31&band_rank=42&Refer=top)
+1. [朱志鑫耳朵沿虚线剪开](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E8%80%B3%E6%9C%B5%E6%B2%BF%E8%99%9A%E7%BA%BF%E5%89%AA%E5%BC%80%23&t=31&band_rank=43&Refer=top)
+1. [普京用中文说谢谢](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC%E7%94%A8%E4%B8%AD%E6%96%87%E8%AF%B4%E8%B0%A2%E8%B0%A2&t=31&band_rank=44&Refer=top)
+1. [历次APEC全家福穿什么](https://s.weibo.com//weibo?q=%23%E5%8E%86%E6%AC%A1APEC%E5%85%A8%E5%AE%B6%E7%A6%8F%E7%A9%BF%E4%BB%80%E4%B9%88%23&t=31&band_rank=45&Refer=top)
+1. [AL补强难度提升](https://s.weibo.com//weibo?q=%23AL%E8%A1%A5%E5%BC%BA%E9%9A%BE%E5%BA%A6%E6%8F%90%E5%8D%87%23&t=31&band_rank=46&Refer=top)
+1. [赵丽颖小城大事获牡丹奖](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E8%8E%B7%E7%89%A1%E4%B8%B9%E5%A5%96%23&t=31&band_rank=47&Refer=top)
+1. [圈内人士悼念张宇](https://s.weibo.com//weibo?q=%23%E5%9C%88%E5%86%85%E4%BA%BA%E5%A3%AB%E6%82%BC%E5%BF%B5%E5%BC%A0%E5%AE%87%23&t=31&band_rank=48&Refer=top)
+1. [真正的蛋白质脂肪和碳水](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%9B%8B%E7%99%BD%E8%B4%A8%E8%84%82%E8%82%AA%E5%92%8C%E7%A2%B3%E6%B0%B4%23&t=31&band_rank=49&Refer=top)
+1. [现在AI也太强了](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%9C%A8AI%E4%B9%9F%E5%A4%AA%E5%BC%BA%E4%BA%86&t=31&band_rank=50&Refer=top)
 1. [习近平和彭丽媛为来宾举行欢迎宴会](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23&Refer=new_time)
 1. [APEC第33次领导人非正式会议举行](https://s.weibo.com//weibo?q=%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=1&Refer=top)
 1. [特朗普在车内未拉窗帘欣赏深圳夜景](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF%23&t=31&band_rank=2&Refer=top)
